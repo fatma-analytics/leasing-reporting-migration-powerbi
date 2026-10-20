@@ -1,0 +1,73 @@
+-- Mesures de référence pour les visuels du prototype.
+-- DimMois[date_debut] doit être de type Date et la table de dates marquée.
+-- Les relations doivent être à sens unique depuis les dimensions vers les faits.
+
+Encours Total =
+SUM ( FactEncours[encours_capital] )
+
+Production Mois =
+SUM ( FactProduction[montant_production] )
+
+Production YTD =
+VAR AnneeCourante = MAX ( DimMois[annee] )
+VAR MoisCourant = MAX ( DimMois[numero_mois] )
+RETURN
+    CALCULATE (
+        [Production Mois],
+        FILTER (
+            ALL ( DimMois ),
+            DimMois[annee] = AnneeCourante
+                && DimMois[numero_mois] <= MoisCourant
+        )
+    )
+
+Echeances Echues =
+CALCULATE (
+    SUM ( FactEcheances[montant_du] ),
+    FILTER (
+        ALL ( DimMois ),
+        DimMois[date_fin] <= MAX ( DimMois[date_fin] )
+    )
+)
+
+Taux Impayés =
+DIVIDE (
+    SUM ( FactImpayes[reste_a_payer] ),
+    [Echeances Echues],
+    0
+)
+
+Production Mois M-1 =
+VAR MoisPrecedent =
+    FORMAT (
+        EDATE ( DATE ( MAX ( DimMois[annee] ), MAX ( DimMois[numero_mois] ), 1 ), -1 ),
+        "yyyy-MM"
+    )
+RETURN
+    CALCULATE (
+        [Production Mois],
+        FILTER ( ALL ( DimMois ), DimMois[mois] = MoisPrecedent )
+    )
+
+Variation M-1 % =
+DIVIDE (
+    [Production Mois] - [Production Mois M-1],
+    [Production Mois M-1],
+    0
+)
+
+Nb Contrats > 90j =
+CALCULATE (
+    DISTINCTCOUNT ( FactImpayes[contrat_id] ),
+    FactImpayes[retard_jours] > 90
+)
+
+Nb Contrats Actifs =
+CALCULATE (
+    DISTINCTCOUNT ( FactContrats[contrat_id] ),
+    FactContrats[statut] = "actif"
+)
+
+-- Note métier : FactImpayes porte uniquement les échéances échues restant à payer.
+-- Le taux est donc le reste à payer divisé par le total d'échéances échues à l'arrêté.
+-- Pour une série historique du taux, utiliser une table de snapshot mensuelle dédiée.

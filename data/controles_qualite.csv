@@ -1,0 +1,8 @@
+controle,anomalies,description
+CONTRATS_DATES_INCOHERENTES,20,Date de fin prévue antérieure à la date de début.
+CONTRATS_DOUBLONS,40,"Lignes appartenant à une clé contrat dupliquée, copie originale incluse."
+CONTRATS_MONTANTS_NEGATIFS,20,Montant financé négatif ou nul.
+ECHEANCES_MONTANTS_NEGATIFS,143,Montant dû négatif ou nul.
+ECHEANCES_ORPHELINES,283,Échéances dont le contrat est absent du staging.
+PAIEMENTS_ECHEANCE_ABSENTE,0,Paiements dont l’échéance source est absente.
+PAIEMENTS_SUPERIEURS_AU_DU,317,Paiement unitaire supérieur au montant dû de son échéance.

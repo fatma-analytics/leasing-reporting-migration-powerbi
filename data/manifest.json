@@ -1,0 +1,22 @@
+{
+  "synthetic": true,
+  "seed": 20260331,
+  "reference_date": "2026-03-31",
+  "history_start_month": "2024-04",
+  "history_end_month": "2026-03",
+  "contracts_generated": 2000,
+  "note": "Toutes les identités, entreprises et transactions sont fictives; les anomalies sont injectées intentionnellement.",
+  "cleaned_rows": {
+    "contrats": 1960,
+    "echeances": 27558,
+    "paiements": 20201
+  },
+  "raw_rows": {
+    "clients": 1500,
+    "biens": 2000,
+    "contrats": 2020,
+    "echeances": 28550,
+    "paiements": 20944
+  },
+  "database": "leasing_demo.sqlite"
+}

@@ -1,0 +1,1501 @@
+client_id,type_client,territoire,secteur,date_entree,raison_sociale_fictive
+CLI-00001,particulier,Île-de-France,Particulier,2019-01-06,Adèle Salmon
+CLI-00002,particulier,Réunion,Particulier,2021-08-10,Gilles Fernandes-Monnier
+CLI-00003,particulier,Île-de-France,Particulier,2021-03-25,Humbert
+CLI-00004,particulier,Réunion,Particulier,2020-10-18,Benard S.A.R.L.
+CLI-00005,professionnel,Île-de-France,Particulier,2022-01-17,Paulette Berthelot de Lucas
+CLI-00006,particulier,Réunion,Particulier,2020-04-28,Aurore Menard-Guyon
+CLI-00007,particulier,Réunion,Particulier,2022-12-29,Picard
+CLI-00008,particulier,Île-de-France,Particulier,2019-08-11,Valentine Dijoux
+CLI-00009,professionnel,Île-de-France,Particulier,2018-08-31,Léon Bodin de Bertrand
+CLI-00010,particulier,Île-de-France,Particulier,2018-07-31,Patrick Laine-Labbé
+CLI-00011,particulier,Île-de-France,Particulier,2018-01-14,Lefèvre Dos Santos SA
+CLI-00012,particulier,Île-de-France,Particulier,2024-08-23,Roux
+CLI-00013,particulier,Île-de-France,Particulier,2018-11-28,Pages SA
+CLI-00014,particulier,Île-de-France,Particulier,2024-11-14,Marc-Victor Ollivier
+CLI-00015,professionnel,Réunion,Particulier,2025-03-17,Jacques Chauvin
+CLI-00016,particulier,Réunion,Particulier,2019-09-01,Costa Rousset S.A.R.L.
+CLI-00017,particulier,Guadeloupe,Particulier,2018-04-27,Charlotte Lecomte
+CLI-00018,particulier,Île-de-France,Particulier,2025-05-01,Christiane Riou-Robin
+CLI-00019,professionnel,Île-de-France,Particulier,2025-07-14,Dupuy
+CLI-00020,professionnel,Île-de-France,Particulier,2018-11-29,Aimé Buisson
+CLI-00021,particulier,Île-de-France,Particulier,2025-04-01,Louis Raynaud
+CLI-00022,professionnel,Île-de-France,Particulier,2018-04-28,Véronique Brunet de Robert
+CLI-00023,particulier,Île-de-France,Particulier,2025-03-04,Andre
+CLI-00024,professionnel,Île-de-France,Particulier,2018-10-06,Matthieu Boyer
+CLI-00025,professionnel,Martinique,Particulier,2023-06-29,Danielle Marchal
+CLI-00026,particulier,Guadeloupe,Particulier,2022-12-15,Gabriel Bruneau du Guichard
+CLI-00027,professionnel,Île-de-France,Particulier,2024-01-10,Laetitia Pruvost
+CLI-00028,particulier,Guadeloupe,Particulier,2022-11-16,Margaret Lefèvre
+CLI-00029,particulier,Guyane,Particulier,2019-05-23,Olivier Blanchard
+CLI-00030,professionnel,Île-de-France,Particulier,2021-03-17,Prévost Lefèvre S.A.R.L.
+CLI-00031,particulier,Île-de-France,Particulier,2024-10-13,Guillaume Didier
+CLI-00032,particulier,Île-de-France,Particulier,2018-08-29,Maggie Moreau
+CLI-00033,particulier,Île-de-France,Particulier,2023-01-22,Léon Clément
+CLI-00034,particulier,Île-de-France,Particulier,2021-10-26,Thérèse Nguyen
+CLI-00035,professionnel,Île-de-France,Particulier,2021-04-27,Noël Gillet
+CLI-00036,particulier,Île-de-France,Particulier,2020-11-21,Robert du Guilbert
+CLI-00037,particulier,Île-de-France,Particulier,2021-09-18,Morin et Fils
+CLI-00038,particulier,Île-de-France,Particulier,2025-02-27,Aurélie-Hélène Hardy
+CLI-00039,particulier,Île-de-France,Particulier,2018-08-14,Alexandre-Guy Reynaud
+CLI-00040,particulier,Guadeloupe,Particulier,2021-05-29,Henri Descamps
+CLI-00041,professionnel,Réunion,Particulier,2026-01-08,Jean Lebon Le Bernard
+CLI-00042,particulier,Réunion,Particulier,2020-06-04,Boyer
+CLI-00043,professionnel,Île-de-France,Particulier,2023-07-24,Élodie Monnier
+CLI-00044,particulier,Île-de-France,Particulier,2024-02-08,Zacharie Leleu
+CLI-00045,professionnel,Île-de-France,Particulier,2018-11-16,Émile de Joly
+CLI-00046,particulier,Martinique,Particulier,2024-03-12,Noël Bertrand
+CLI-00047,professionnel,Martinique,Particulier,2019-01-15,Patrick Gauthier
+CLI-00048,particulier,Île-de-France,Particulier,2021-08-15,Guy Mallet-Benoit
+CLI-00049,professionnel,Réunion,Particulier,2022-01-02,Alexandre
+CLI-00050,professionnel,Guyane,Particulier,2021-09-23,Laurence Charrier
+CLI-00051,particulier,Île-de-France,Particulier,2024-10-16,Constance Rey Le Maillot
+CLI-00052,particulier,Île-de-France,Particulier,2019-10-26,Alix Lamy-Guillaume
+CLI-00053,professionnel,Réunion,Particulier,2025-04-22,Stéphane Guérin-Lacombe
+CLI-00054,particulier,Île-de-France,Particulier,2023-09-18,Marchand SA
+CLI-00055,professionnel,Île-de-France,Particulier,2018-12-15,Hamon
+CLI-00056,particulier,Île-de-France,Particulier,2020-04-21,Hebert S.A.R.L.
+CLI-00057,professionnel,Guyane,Particulier,2024-04-12,Michèle Léger
+CLI-00058,professionnel,Île-de-France,Particulier,2024-06-29,Thibaut Le Samson
+CLI-00059,particulier,Île-de-France,Particulier,2020-07-30,Andrée Dumont-Lefort
+CLI-00060,particulier,Île-de-France,Particulier,2022-03-31,Olivier Letellier
+CLI-00061,particulier,Île-de-France,Particulier,2022-10-31,Jeanne Thomas
+CLI-00062,particulier,Île-de-France,Particulier,2025-10-15,Gabriel de la Bigot
+CLI-00063,professionnel,Île-de-France,Particulier,2021-03-11,Auguste Le Lombard
+CLI-00064,particulier,Île-de-France,Particulier,2022-11-07,Émile Dias Le Jacques
+CLI-00065,professionnel,Île-de-France,Particulier,2018-10-13,Guillou
+CLI-00066,particulier,Réunion,Particulier,2025-04-10,Élodie Gosselin
+CLI-00067,particulier,Île-de-France,Particulier,2022-12-17,Foucher SARL
+CLI-00068,particulier,Île-de-France,Particulier,2021-07-12,Alphonse Lopes
+CLI-00069,particulier,Île-de-France,Particulier,2020-05-19,Louis Renard-Tanguy
+CLI-00070,particulier,Île-de-France,Particulier,2018-02-01,Emmanuel Boulay
+CLI-00071,particulier,Île-de-France,Particulier,2021-06-15,Colette Pichon
+CLI-00072,particulier,Île-de-France,Particulier,2024-01-10,Alexandre-François Dufour
+CLI-00073,particulier,Martinique,Particulier,2023-11-09,Caroline Boulay
+CLI-00074,particulier,Île-de-France,Particulier,2020-05-12,Colette Laurent de Guillet
+CLI-00075,professionnel,Guadeloupe,Particulier,2021-04-04,Marie Robert
+CLI-00076,professionnel,Île-de-France,Particulier,2021-04-08,Fouquet S.A.S.
+CLI-00077,particulier,Île-de-France,Particulier,2018-01-26,Michèle Alexandre
+CLI-00078,particulier,Réunion,Particulier,2025-10-11,Manon Michaud
+CLI-00079,professionnel,Île-de-France,Particulier,2021-10-06,Honoré-Xavier Voisin
+CLI-00080,professionnel,Île-de-France,Particulier,2020-10-31,Hubert Mendès et Fils
+CLI-00081,particulier,Guadeloupe,Particulier,2020-04-12,Barbier Leclerc SARL
+CLI-00082,particulier,Île-de-France,Particulier,2025-02-27,Renault
+CLI-00083,particulier,Réunion,Particulier,2020-06-01,Jeanne Boulanger-Besson
+CLI-00084,particulier,Île-de-France,Particulier,2025-01-17,Sauvage
+CLI-00085,particulier,Île-de-France,Particulier,2019-10-27,Antoine Roux
+CLI-00086,professionnel,Guyane,Particulier,2025-07-16,Laure de la Jean
+CLI-00087,professionnel,Réunion,Particulier,2023-04-18,Richard Le Salmon
+CLI-00088,particulier,Île-de-France,Particulier,2025-07-03,Peron S.A.S.
+CLI-00089,particulier,Guyane,Particulier,2020-07-23,Diane Duhamel du Lopez
+CLI-00090,professionnel,Guadeloupe,Particulier,2021-01-20,Alice Teixeira
+CLI-00091,particulier,Île-de-France,Particulier,2020-11-16,Joséphine Costa de la Giraud
+CLI-00092,particulier,Martinique,Particulier,2025-08-05,Marcel-Robert Hebert
+CLI-00093,professionnel,Réunion,Particulier,2024-01-18,Sophie Texier de la Ferreira
+CLI-00094,particulier,Martinique,Particulier,2025-02-24,Laetitia Maillet-Hervé
+CLI-00095,particulier,Île-de-France,Particulier,2020-12-10,Nathalie-Frédérique Vallée
+CLI-00096,particulier,Île-de-France,Particulier,2021-04-23,Diane Simon
+CLI-00097,particulier,Guadeloupe,Particulier,2020-08-21,Paul
+CLI-00098,particulier,Île-de-France,Particulier,2019-11-03,Lucy Besnard
+CLI-00099,particulier,Île-de-France,Particulier,2023-08-11,Anaïs Lamy
+CLI-00100,particulier,Île-de-France,Particulier,2021-12-27,Noémi Lévêque
+CLI-00101,professionnel,Martinique,Particulier,2019-04-08,Lorraine Maillard
+CLI-00102,particulier,Martinique,Particulier,2021-03-11,Julien-Émile Fabre
+CLI-00103,particulier,Réunion,Particulier,2024-05-17,Nicolas du Bouvet
+CLI-00104,particulier,Île-de-France,Particulier,2024-08-23,Patrick Wagner
+CLI-00105,professionnel,Guadeloupe,Particulier,2021-04-02,Laroche
+CLI-00106,particulier,Martinique,Particulier,2020-10-13,Frédéric Huet
+CLI-00107,particulier,Martinique,Particulier,2023-03-23,William Berthelot
+CLI-00108,particulier,Île-de-France,Particulier,2021-06-21,Émile Blanchet
+CLI-00109,professionnel,Réunion,Particulier,2024-05-17,Josette du Bouchet
+CLI-00110,particulier,Guyane,Particulier,2018-10-14,Étienne Pasquier
+CLI-00111,professionnel,Réunion,Particulier,2025-10-20,Besson Diaz S.A.R.L.
+CLI-00112,professionnel,Île-de-France,Particulier,2019-05-15,David Leblanc
+CLI-00113,particulier,Guyane,Particulier,2018-01-15,Julien Louis
+CLI-00114,particulier,Île-de-France,Particulier,2019-04-19,Stéphanie Baudry
+CLI-00115,particulier,Réunion,Particulier,2022-05-13,Susan Guillaume
+CLI-00116,particulier,Île-de-France,Particulier,2019-05-30,Alex Denis
+CLI-00117,particulier,Guadeloupe,Particulier,2018-01-18,Dias
+CLI-00118,professionnel,Île-de-France,Particulier,2023-06-14,Danielle Jacques
+CLI-00119,professionnel,Île-de-France,Particulier,2020-08-18,Renée Girard-Meyer
+CLI-00120,professionnel,Île-de-France,Particulier,2026-02-01,Allard SA
+CLI-00121,particulier,Martinique,Particulier,2019-12-11,Roger-Benoît Torres
+CLI-00122,professionnel,Île-de-France,Particulier,2019-04-04,Bousquet
+CLI-00123,professionnel,Île-de-France,Particulier,2023-07-09,Lucy Nguyen
+CLI-00124,professionnel,Île-de-France,Particulier,2020-01-08,Inès Lombard de Louis
+CLI-00125,particulier,Réunion,Particulier,2021-01-08,Édith Roy-Parent
+CLI-00126,professionnel,Guyane,Particulier,2020-10-01,Brun
+CLI-00127,particulier,Île-de-France,Particulier,2025-04-10,William-Benjamin Lelièvre
+CLI-00128,particulier,Île-de-France,Particulier,2018-08-24,Antoine S.A.S.
+CLI-00129,professionnel,Guadeloupe,Particulier,2021-12-30,Mathilde Bonnet-Alexandre
+CLI-00130,professionnel,Guadeloupe,Particulier,2019-02-07,Zoé Grenier-Reynaud
+CLI-00131,particulier,Île-de-France,Particulier,2025-06-16,Pénélope Boucher
+CLI-00132,professionnel,Île-de-France,Particulier,2025-06-16,Hernandez
+CLI-00133,particulier,Guyane,Particulier,2019-05-31,Philippe Hamel
+CLI-00134,particulier,Île-de-France,Particulier,2025-07-30,Poulain
+CLI-00135,particulier,Île-de-France,Particulier,2024-09-16,Olivie Jacob
+CLI-00136,particulier,Île-de-France,Particulier,2023-11-11,Lemaire Daniel SA
+CLI-00137,particulier,Île-de-France,Particulier,2020-08-01,Thierry Robert
+CLI-00138,particulier,Île-de-France,Particulier,2022-07-04,Tristan Renard-Perez
+CLI-00139,particulier,Île-de-France,Particulier,2018-07-25,Lecomte et Fils
+CLI-00140,particulier,Île-de-France,Particulier,2019-09-22,Guillaume Lagarde
+CLI-00141,professionnel,Île-de-France,Particulier,2023-10-04,Simone Rey
+CLI-00142,professionnel,Île-de-France,Particulier,2021-05-06,Dorothée Leclercq
+CLI-00143,particulier,Île-de-France,Particulier,2021-03-15,Martin Gaudin
+CLI-00144,particulier,Île-de-France,Particulier,2022-06-02,Margot Letellier
+CLI-00145,professionnel,Île-de-France,Particulier,2022-03-01,Fernandes Maillard et Fils
+CLI-00146,particulier,Martinique,Particulier,2018-01-20,Matthieu-Louis Fernandes
+CLI-00147,professionnel,Île-de-France,Particulier,2024-02-04,Élise Jean
+CLI-00148,particulier,Île-de-France,Particulier,2024-03-23,Victor Sauvage
+CLI-00149,professionnel,Île-de-France,Particulier,2020-06-14,Chantal Traore
+CLI-00150,particulier,Réunion,Particulier,2019-05-03,Guillot Bourgeois SARL
+CLI-00151,particulier,Île-de-France,Particulier,2020-05-17,Monnier Leroux S.A.R.L.
+CLI-00152,particulier,Île-de-France,Particulier,2023-05-02,Charrier Girard S.A.
+CLI-00153,professionnel,Réunion,Particulier,2022-01-29,Agnès Pruvost-Étienne
+CLI-00154,particulier,Île-de-France,Particulier,2025-06-15,Marcel Colin
+CLI-00155,particulier,Île-de-France,Particulier,2021-08-27,Marc Labbé-Petitjean
+CLI-00156,particulier,Île-de-France,Particulier,2025-07-18,Guillaume Delahaye
+CLI-00157,particulier,Île-de-France,Particulier,2019-03-08,Duhamel S.A.S.
+CLI-00158,particulier,Île-de-France,Particulier,2018-04-15,Odette du Thierry
+CLI-00159,particulier,Île-de-France,Particulier,2025-10-19,Perrin S.A.S.
+CLI-00160,particulier,Réunion,Particulier,2025-12-12,Roland Vasseur Le Royer
+CLI-00161,particulier,Guadeloupe,Particulier,2019-03-21,Maurice Pascal
+CLI-00162,particulier,Réunion,Particulier,2024-09-03,Olivier Vaillant
+CLI-00163,professionnel,Île-de-France,Particulier,2022-06-08,Josette Regnier
+CLI-00164,particulier,Île-de-France,Particulier,2018-08-20,Georges S.A.R.L.
+CLI-00165,professionnel,Île-de-France,Particulier,2019-08-11,Lucas Le Goff
+CLI-00166,particulier,Île-de-France,Particulier,2018-12-23,Frédéric Buisson
+CLI-00167,particulier,Île-de-France,Particulier,2021-05-04,Zacharie Texier
+CLI-00168,professionnel,Île-de-France,Particulier,2025-10-07,Anastasie Marchand de Bigot
+CLI-00169,particulier,Île-de-France,Particulier,2019-08-27,Benjamin-Guillaume Gomes
+CLI-00170,professionnel,Guadeloupe,Particulier,2021-08-12,Jérôme Le Jean
+CLI-00171,particulier,Martinique,Particulier,2020-10-17,Raynaud
+CLI-00172,professionnel,Île-de-France,Particulier,2018-07-08,Lucy-Sophie Pereira
+CLI-00173,professionnel,Île-de-France,Particulier,2022-02-19,Jacob
+CLI-00174,particulier,Martinique,Particulier,2023-07-15,Guy Lemoine
+CLI-00175,particulier,Île-de-France,Particulier,2021-08-24,Alex Blanchet
+CLI-00176,professionnel,Île-de-France,Particulier,2024-04-28,Monique Bernier
+CLI-00177,particulier,Réunion,Particulier,2025-08-28,Petitjean
+CLI-00178,particulier,Guyane,Particulier,2025-08-29,Picard Peltier SARL
+CLI-00179,particulier,Île-de-France,Particulier,2018-01-31,Raymond Léger
+CLI-00180,professionnel,Île-de-France,Particulier,2019-07-16,André-Xavier Marion
+CLI-00181,particulier,Réunion,Particulier,2025-07-13,Henri Vallée
+CLI-00182,particulier,Île-de-France,Particulier,2019-03-31,Faure
+CLI-00183,professionnel,Île-de-France,Particulier,2025-08-14,Roger Philippe
+CLI-00184,particulier,Martinique,Particulier,2021-11-11,Cécile Martinez
+CLI-00185,particulier,Île-de-France,Particulier,2018-06-15,Madeleine Arnaud de Bazin
+CLI-00186,professionnel,Guyane,Particulier,2020-02-29,Renaud Laurent S.A.S.
+CLI-00187,particulier,Île-de-France,Particulier,2024-12-28,Guy Lebrun
+CLI-00188,professionnel,Guadeloupe,Particulier,2021-02-03,Emmanuel Lévêque
+CLI-00189,particulier,Île-de-France,Particulier,2021-05-24,Guibert
+CLI-00190,professionnel,Île-de-France,Particulier,2018-04-12,Maggie Lenoir
+CLI-00191,professionnel,Île-de-France,Particulier,2018-01-18,Adélaïde Payet Le Auger
+CLI-00192,professionnel,Île-de-France,Particulier,2025-04-19,Margot Deschamps
+CLI-00193,particulier,Île-de-France,Particulier,2019-11-13,Charlotte de la Diaz
+CLI-00194,professionnel,Guadeloupe,Particulier,2024-12-21,Louise Cohen
+CLI-00195,particulier,Île-de-France,Particulier,2021-08-20,Stéphanie Ruiz
+CLI-00196,particulier,Île-de-France,Particulier,2024-01-03,Durand Traore et Fils
+CLI-00197,particulier,Île-de-France,Particulier,2020-04-16,Denis Le Lemoine
+CLI-00198,professionnel,Île-de-France,Particulier,2019-07-01,Alex Germain
+CLI-00199,particulier,Martinique,Particulier,2022-03-24,Guillaume Bonneau Le Allain
+CLI-00200,professionnel,Guadeloupe,Particulier,2023-02-01,Anouk du Dupuis
+CLI-00201,particulier,Île-de-France,Particulier,2020-10-30,Guillaume Leclercq
+CLI-00202,particulier,Île-de-France,Particulier,2021-12-20,Bernard Diallo
+CLI-00203,particulier,Réunion,Particulier,2023-09-02,Gilles
+CLI-00204,professionnel,Île-de-France,Particulier,2020-03-13,Lucas Le Tanguy
+CLI-00205,particulier,Île-de-France,Particulier,2018-05-27,Germain
+CLI-00206,professionnel,Guadeloupe,Particulier,2020-05-24,Bernadette Roger
+CLI-00207,particulier,Guyane,Particulier,2018-03-25,Agnès Cohen
+CLI-00208,particulier,Martinique,Particulier,2025-03-31,Bernier SARL
+CLI-00209,professionnel,Île-de-France,Particulier,2019-02-08,Paul-Roland Imbert
+CLI-00210,particulier,Guadeloupe,Particulier,2022-11-25,Gaudin
+CLI-00211,professionnel,Île-de-France,Particulier,2021-10-15,Clément
+CLI-00212,professionnel,Île-de-France,Particulier,2023-07-12,Couturier S.A.S.
+CLI-00213,particulier,Île-de-France,Particulier,2019-10-07,Salmon S.A.
+CLI-00214,professionnel,Guyane,Particulier,2022-07-06,Sylvie Roux
+CLI-00215,particulier,Île-de-France,Particulier,2019-06-21,Grégoire Ollivier
+CLI-00216,particulier,Île-de-France,Particulier,2021-01-24,Petit S.A.
+CLI-00217,particulier,Martinique,Particulier,2020-06-14,Boutin
+CLI-00218,professionnel,Île-de-France,Particulier,2019-11-30,David Marion de Potier
+CLI-00219,professionnel,Martinique,Particulier,2022-11-27,Agathe Morel
+CLI-00220,particulier,Île-de-France,Particulier,2019-05-31,Garcia
+CLI-00221,particulier,Île-de-France,Particulier,2025-04-04,Lucas
+CLI-00222,particulier,Guyane,Particulier,2023-05-03,Hugues Fouquet
+CLI-00223,professionnel,Île-de-France,Particulier,2023-01-05,Julie Rossi-Andre
+CLI-00224,professionnel,Guadeloupe,Particulier,2021-07-31,Thibaut Guyon
+CLI-00225,particulier,Île-de-France,Particulier,2020-12-02,Matthieu Regnier
+CLI-00226,particulier,Martinique,Particulier,2021-08-14,Louise Maillet du Maurice
+CLI-00227,particulier,Île-de-France,Particulier,2019-03-11,Alain Gomez
+CLI-00228,particulier,Guyane,Particulier,2024-05-10,Leclercq
+CLI-00229,particulier,Martinique,Particulier,2020-02-15,Hebert SA
+CLI-00230,professionnel,Guadeloupe,Particulier,2018-12-15,Catherine Brunel de la Noël
+CLI-00231,particulier,Île-de-France,Particulier,2023-07-17,Théodore Collet
+CLI-00232,professionnel,Île-de-France,Particulier,2021-03-22,Gabrielle de la Alves
+CLI-00233,particulier,Île-de-France,Particulier,2018-12-21,Hoareau
+CLI-00234,particulier,Île-de-France,Particulier,2025-02-01,Patricia Neveu
+CLI-00235,particulier,Île-de-France,Particulier,2019-10-23,Delahaye Loiseau S.A.S.
+CLI-00236,professionnel,Île-de-France,Particulier,2022-02-05,Berthelot Thierry et Fils
+CLI-00237,professionnel,Île-de-France,Particulier,2025-03-11,Célina Lopez
+CLI-00238,particulier,Île-de-France,Particulier,2018-05-07,Joseph de Denis
+CLI-00239,particulier,Guadeloupe,Particulier,2023-01-15,Véronique Reynaud
+CLI-00240,particulier,Île-de-France,Particulier,2025-10-18,Camus
+CLI-00241,professionnel,Île-de-France,Particulier,2024-07-08,Christophe Dufour de la Gros
+CLI-00242,particulier,Réunion,Particulier,2024-01-16,Édith Lagarde
+CLI-00243,professionnel,Île-de-France,Particulier,2025-07-16,Roger Lucas
+CLI-00244,particulier,Île-de-France,Particulier,2023-12-21,Daniel Bernard
+CLI-00245,particulier,Guadeloupe,Particulier,2021-06-14,Odette Lambert
+CLI-00246,particulier,Île-de-France,Particulier,2019-04-06,Arthur Costa
+CLI-00247,professionnel,Martinique,Particulier,2023-07-17,Gilles Texier
+CLI-00248,particulier,Île-de-France,Particulier,2020-11-06,Alain Boyer
+CLI-00249,professionnel,Martinique,Particulier,2020-01-26,Torres et Fils
+CLI-00250,professionnel,Martinique,Particulier,2024-01-28,Klein S.A.
+CLI-00251,professionnel,Martinique,Particulier,2019-05-09,Josette Camus
+CLI-00252,particulier,Guyane,Particulier,2019-08-26,Odette Laroche-Lelièvre
+CLI-00253,particulier,Martinique,Particulier,2020-05-18,Fernandes
+CLI-00254,particulier,Martinique,Particulier,2018-04-18,Pons Chevallier S.A.R.L.
+CLI-00255,professionnel,Île-de-France,Particulier,2023-02-13,Paul
+CLI-00256,particulier,Île-de-France,Particulier,2023-12-17,Victor Lejeune
+CLI-00257,professionnel,Île-de-France,Particulier,2023-12-07,Jacquet
+CLI-00258,particulier,Île-de-France,Particulier,2018-08-23,Lucie-Manon Tanguy
+CLI-00259,particulier,Martinique,Particulier,2024-10-05,Mercier Maillet et Fils
+CLI-00260,particulier,Île-de-France,Particulier,2019-10-27,Suzanne Pottier
+CLI-00261,particulier,Île-de-France,Particulier,2018-09-28,Michel
+CLI-00262,professionnel,Martinique,Particulier,2023-07-11,Brun
+CLI-00263,particulier,Île-de-France,Particulier,2024-01-21,Perret S.A.
+CLI-00264,professionnel,Île-de-France,Particulier,2023-03-28,Zoé Laporte Le Brunel
+CLI-00265,particulier,Île-de-France,Particulier,2021-11-18,Vincent Lenoir
+CLI-00266,professionnel,Île-de-France,Particulier,2018-12-29,Andrée Traore
+CLI-00267,particulier,Île-de-France,Particulier,2019-01-13,Descamps Letellier SARL
+CLI-00268,professionnel,Île-de-France,Particulier,2022-02-05,Thierry Dijoux
+CLI-00269,particulier,Île-de-France,Particulier,2019-02-05,Marcelle-Paulette Diallo
+CLI-00270,particulier,Île-de-France,Particulier,2019-02-08,Blanc
+CLI-00271,particulier,Île-de-France,Particulier,2022-07-17,Thierry
+CLI-00272,professionnel,Île-de-France,Particulier,2021-07-09,Emmanuel-Thomas Lamy
+CLI-00273,particulier,Île-de-France,Particulier,2022-10-08,Étienne Étienne Le Daniel
+CLI-00274,particulier,Île-de-France,Particulier,2024-03-30,Marianne Leblanc
+CLI-00275,particulier,Île-de-France,Particulier,2020-08-06,Élodie Guyot
+CLI-00276,professionnel,Île-de-France,Particulier,2019-01-01,Rousset Guillot SARL
+CLI-00277,professionnel,Île-de-France,Particulier,2025-01-19,Aurélie Pons
+CLI-00278,particulier,Île-de-France,Particulier,2024-06-09,Cécile Lacombe
+CLI-00279,professionnel,Île-de-France,Particulier,2021-03-05,Maillet
+CLI-00280,professionnel,Île-de-France,Particulier,2023-03-22,Chauvet
+CLI-00281,particulier,Île-de-France,Particulier,2024-04-05,Auguste Georges
+CLI-00282,particulier,Île-de-France,Particulier,2018-10-27,Lopez Auger S.A.S.
+CLI-00283,professionnel,Île-de-France,Particulier,2019-10-31,Paul Toussaint-Leclercq
+CLI-00284,particulier,Guyane,Particulier,2023-09-13,Marc Poirier
+CLI-00285,particulier,Île-de-France,Particulier,2018-02-03,Adrien Vidal
+CLI-00286,particulier,Île-de-France,Particulier,2020-04-02,Agathe Hamon-Dupré
+CLI-00287,particulier,Île-de-France,Particulier,2023-06-28,Bertrand Moreno
+CLI-00288,particulier,Martinique,Particulier,2020-05-09,Stéphane Picard
+CLI-00289,particulier,Guyane,Particulier,2022-09-11,Philippine de Fernandez
+CLI-00290,particulier,Guyane,Particulier,2018-08-06,Susan Morel
+CLI-00291,particulier,Île-de-France,Particulier,2025-03-05,Marc Dubois
+CLI-00292,particulier,Île-de-France,Particulier,2021-11-03,Nicolas Rivière
+CLI-00293,particulier,Martinique,Particulier,2025-04-27,Alphonse Martins-Fouquet
+CLI-00294,particulier,Île-de-France,Particulier,2021-09-25,Simone Leleu
+CLI-00295,particulier,Île-de-France,Particulier,2021-01-22,Thérèse du Regnier
+CLI-00296,particulier,Île-de-France,Particulier,2021-10-13,Astrid Langlois
+CLI-00297,particulier,Île-de-France,Particulier,2020-10-28,Becker SARL
+CLI-00298,professionnel,Île-de-France,Particulier,2021-10-10,Christine de la Berger
+CLI-00299,particulier,Île-de-France,Particulier,2018-04-24,Paul
+CLI-00300,professionnel,Martinique,Particulier,2018-03-06,Foucher Meyer S.A.S.
+CLI-00301,professionnel,Guadeloupe,Particulier,2019-11-07,Margot du Paris
+CLI-00302,professionnel,Île-de-France,Particulier,2020-01-16,Delannoy
+CLI-00303,particulier,Réunion,Particulier,2022-02-10,Lucie Navarro
+CLI-00304,particulier,Île-de-France,Particulier,2019-04-25,Hugues du Gautier
+CLI-00305,particulier,Martinique,Particulier,2025-08-15,David Ferreira
+CLI-00306,professionnel,Île-de-France,Particulier,2025-04-01,Adrienne-Sophie Renard
+CLI-00307,professionnel,Guadeloupe,Particulier,2022-07-15,Amélie-Victoire Nicolas
+CLI-00308,professionnel,Île-de-France,Particulier,2022-10-12,Thomas Gomez et Fils
+CLI-00309,professionnel,Guadeloupe,Particulier,2023-02-18,Gilbert Hernandez
+CLI-00310,particulier,Île-de-France,Particulier,2025-08-21,Roger Fischer
+CLI-00311,particulier,Île-de-France,Particulier,2019-02-25,Vincent De Sousa de la Cohen
+CLI-00312,particulier,Réunion,Particulier,2026-03-17,Michèle Albert
+CLI-00313,particulier,Île-de-France,Particulier,2019-03-02,Marthe Delmas
+CLI-00314,particulier,Île-de-France,Particulier,2019-01-21,Nicolas
+CLI-00315,particulier,Île-de-France,Particulier,2020-07-31,Lenoir SA
+CLI-00316,professionnel,Île-de-France,Particulier,2025-01-26,Louis-Pierre Pascal
+CLI-00317,particulier,Île-de-France,Particulier,2025-08-11,Jacqueline Lemonnier
+CLI-00318,professionnel,Guyane,Particulier,2019-07-16,Grégoire Moulin
+CLI-00319,particulier,Île-de-France,Particulier,2024-01-09,Étienne Samson
+CLI-00320,particulier,Guyane,Particulier,2022-05-06,Emmanuelle Roger
+CLI-00321,particulier,Guadeloupe,Particulier,2020-06-20,Daniel de la Albert
+CLI-00322,particulier,Île-de-France,Particulier,2024-12-05,Laurence-Lucy Lelièvre
+CLI-00323,particulier,Réunion,Particulier,2024-09-20,Audrey Grondin
+CLI-00324,particulier,Île-de-France,Particulier,2019-06-18,Grégoire-Stéphane Delaunay
+CLI-00325,professionnel,Île-de-France,Particulier,2023-12-04,Pauline-Adèle Lecomte
+CLI-00326,particulier,Île-de-France,Particulier,2022-12-23,Guillaume Thierry
+CLI-00327,professionnel,Île-de-France,Particulier,2026-02-13,Alain de la Roussel
+CLI-00328,particulier,Île-de-France,Particulier,2025-07-17,Arnaud
+CLI-00329,particulier,Réunion,Particulier,2024-08-09,Michel S.A.S.
+CLI-00330,particulier,Île-de-France,Particulier,2025-06-22,Grenier
+CLI-00331,particulier,Île-de-France,Particulier,2021-01-15,Olivie Lambert
+CLI-00332,particulier,Guyane,Particulier,2025-01-30,Léon Vaillant
+CLI-00333,professionnel,Guyane,Particulier,2019-11-04,Manon-Simone Robert
+CLI-00334,particulier,Île-de-France,Particulier,2018-08-10,Éric Dufour
+CLI-00335,particulier,Île-de-France,Particulier,2020-03-26,Thierry Charpentier S.A.S.
+CLI-00336,particulier,Île-de-France,Particulier,2025-07-27,Michaud
+CLI-00337,professionnel,Réunion,Particulier,2021-12-18,Adrienne Labbé
+CLI-00338,particulier,Île-de-France,Particulier,2018-01-30,Susan Roussel Le Andre
+CLI-00339,particulier,Île-de-France,Particulier,2018-11-02,Petitjean S.A.R.L.
+CLI-00340,professionnel,Île-de-France,Particulier,2024-02-29,Boulanger SA
+CLI-00341,particulier,Île-de-France,Particulier,2023-01-09,Jérôme Vallée
+CLI-00342,professionnel,Île-de-France,Particulier,2024-03-20,Olivie Nguyen
+CLI-00343,particulier,Île-de-France,Particulier,2024-11-23,Gomez
+CLI-00344,professionnel,Guyane,Particulier,2021-05-03,Geneviève-Catherine Leclerc
+CLI-00345,particulier,Île-de-France,Particulier,2022-06-13,Bertrand Clerc
+CLI-00346,particulier,Île-de-France,Particulier,2022-01-16,Chantal Hervé
+CLI-00347,professionnel,Île-de-France,Particulier,2024-12-29,Gauthier
+CLI-00348,particulier,Île-de-France,Particulier,2021-02-21,Denis De Sousa de Alves
+CLI-00349,particulier,Martinique,Particulier,2024-05-05,Lucas Vasseur
+CLI-00350,professionnel,Île-de-France,Particulier,2022-07-15,Gay
+CLI-00351,professionnel,Île-de-France,Particulier,2018-07-30,Julien Dupuy
+CLI-00352,professionnel,Île-de-France,Particulier,2018-06-25,Laure-Josette Marchand
+CLI-00353,particulier,Île-de-France,Particulier,2023-03-21,Leduc Weber S.A.
+CLI-00354,particulier,Île-de-France,Particulier,2022-09-11,Blondel
+CLI-00355,professionnel,Île-de-France,Particulier,2023-02-23,Hoareau Perret SA
+CLI-00356,particulier,Île-de-France,Particulier,2025-12-18,Jacques de Noël
+CLI-00357,particulier,Île-de-France,Particulier,2021-02-05,Henriette Dos Santos
+CLI-00358,professionnel,Martinique,Particulier,2018-03-23,Dominique Hamon-Robin
+CLI-00359,particulier,Île-de-France,Particulier,2022-05-23,Masse Georges S.A.S.
+CLI-00360,particulier,Guadeloupe,Particulier,2019-03-06,Gilbert Paul
+CLI-00361,professionnel,Île-de-France,Particulier,2018-12-27,Moreno S.A.
+CLI-00362,particulier,Île-de-France,Particulier,2024-05-13,Anouk-Victoire Guyot
+CLI-00363,particulier,Réunion,Particulier,2024-04-29,Eugène Garnier
+CLI-00364,particulier,Guyane,Particulier,2020-07-08,Hubert Courtois SARL
+CLI-00365,particulier,Guyane,Particulier,2018-02-23,René Le Guillot
+CLI-00366,particulier,Île-de-France,Particulier,2023-03-13,Louis
+CLI-00367,particulier,Île-de-France,Particulier,2023-04-09,Guichard Grégoire SARL
+CLI-00368,professionnel,Île-de-France,Particulier,2020-07-20,Legendre
+CLI-00369,particulier,Île-de-France,Particulier,2023-09-18,Martin Lemoine-Colin
+CLI-00370,particulier,Île-de-France,Particulier,2023-11-06,Chartier Hubert SARL
+CLI-00371,professionnel,Île-de-France,Particulier,2022-08-01,Bazin
+CLI-00372,professionnel,Guyane,Particulier,2021-01-25,Navarro S.A.S.
+CLI-00373,particulier,Martinique,Particulier,2025-01-12,Catherine Boyer
+CLI-00374,particulier,Île-de-France,Particulier,2018-08-17,André Mahe
+CLI-00375,particulier,Martinique,Particulier,2025-12-30,Blanc S.A.
+CLI-00376,particulier,Île-de-France,Particulier,2021-05-07,Carpentier
+CLI-00377,particulier,Réunion,Particulier,2020-11-11,Patricia Wagner
+CLI-00378,particulier,Réunion,Particulier,2022-11-06,Briand Charles S.A.R.L.
+CLI-00379,particulier,Île-de-France,Particulier,2020-06-02,Laure-Susanne Paris
+CLI-00380,professionnel,Île-de-France,Particulier,2022-04-23,Lorraine Lefort
+CLI-00381,particulier,Île-de-France,Particulier,2019-03-23,Gabrielle Sauvage
+CLI-00382,professionnel,Île-de-France,Particulier,2023-02-28,Colette Da Silva du Lagarde
+CLI-00383,particulier,Réunion,Particulier,2024-12-17,Franck Da Costa
+CLI-00384,particulier,Martinique,Particulier,2018-04-25,Meyer et Fils
+CLI-00385,particulier,Île-de-France,Particulier,2024-01-23,Raymond Morvan-Bodin
+CLI-00386,professionnel,Guadeloupe,Particulier,2024-03-05,Agathe-Zoé Raymond
+CLI-00387,professionnel,Guyane,Particulier,2021-04-12,Pénélope Fournier
+CLI-00388,particulier,Île-de-France,Particulier,2022-01-02,Odette Rolland
+CLI-00389,professionnel,Île-de-France,Particulier,2022-11-08,Valérie Delattre
+CLI-00390,professionnel,Île-de-France,Particulier,2025-01-13,Pauline Lévy
+CLI-00391,particulier,Île-de-France,Particulier,2020-05-15,Thomas Noël
+CLI-00392,particulier,Guyane,Particulier,2023-07-02,Godard S.A.S.
+CLI-00393,particulier,Île-de-France,Particulier,2020-09-03,Alexandre Legendre
+CLI-00394,particulier,Île-de-France,Particulier,2018-01-01,Tessier Gillet S.A.S.
+CLI-00395,particulier,Île-de-France,Particulier,2021-10-09,Parent
+CLI-00396,professionnel,Île-de-France,Particulier,2018-01-24,Gabriel Poulain
+CLI-00397,particulier,Réunion,Particulier,2018-10-14,Regnier
+CLI-00398,professionnel,Réunion,Particulier,2021-06-30,Auguste Seguin
+CLI-00399,particulier,Île-de-France,Particulier,2026-03-09,Roger de Renard
+CLI-00400,particulier,Guyane,Particulier,2023-06-08,Agnès Le Robert
+CLI-00401,particulier,Île-de-France,Particulier,2021-07-02,Susan Bouchet
+CLI-00402,professionnel,Île-de-France,Particulier,2024-10-06,Monique-Andrée Marty
+CLI-00403,particulier,Île-de-France,Particulier,2020-09-25,Costa
+CLI-00404,particulier,Île-de-France,Particulier,2025-04-21,Patrick Moulin
+CLI-00405,particulier,Île-de-France,Particulier,2025-09-19,Emmanuel Letellier
+CLI-00406,particulier,Île-de-France,Particulier,2024-08-25,Gillet
+CLI-00407,particulier,Réunion,Particulier,2021-11-10,Théophile-Alphonse Schneider
+CLI-00408,professionnel,Réunion,Particulier,2025-11-14,Nicole Guillet
+CLI-00409,professionnel,Île-de-France,Particulier,2025-10-29,Mace
+CLI-00410,particulier,Île-de-France,Particulier,2020-11-18,Christiane-Marguerite Allain
+CLI-00411,particulier,Île-de-France,Particulier,2024-07-12,William du Lemonnier
+CLI-00412,particulier,Île-de-France,Particulier,2023-09-08,Vincent Mary
+CLI-00413,professionnel,Île-de-France,Particulier,2024-06-14,Michelle Julien
+CLI-00414,particulier,Île-de-France,Particulier,2022-04-22,Bonneau
+CLI-00415,particulier,Martinique,Particulier,2022-12-23,Alex Leroy
+CLI-00416,particulier,Île-de-France,Particulier,2023-11-18,Roche
+CLI-00417,particulier,Île-de-France,Particulier,2018-02-02,Paul Perez
+CLI-00418,particulier,Île-de-France,Particulier,2023-11-30,Blanchet SARL
+CLI-00419,particulier,Île-de-France,Particulier,2025-08-12,Dos Santos
+CLI-00420,professionnel,Île-de-France,Particulier,2022-07-11,Auguste Normand Le Guyot
+CLI-00421,professionnel,Île-de-France,Particulier,2023-07-08,Émilie-Céline Blondel
+CLI-00422,particulier,Île-de-France,Particulier,2024-09-04,Besnard
+CLI-00423,particulier,Île-de-France,Particulier,2025-05-15,Alain-Étienne Lacombe
+CLI-00424,particulier,Martinique,Particulier,2023-08-17,Masson S.A.R.L.
+CLI-00425,particulier,Réunion,Particulier,2025-08-31,Rodriguez
+CLI-00426,particulier,Île-de-France,Particulier,2025-02-08,Juliette Guillet
+CLI-00427,particulier,Île-de-France,Particulier,2024-12-20,Franck Masson
+CLI-00428,particulier,Île-de-France,Particulier,2020-11-10,Renaud et Fils
+CLI-00429,particulier,Guyane,Particulier,2022-05-05,Chantal Cousin-Guillot
+CLI-00430,particulier,Île-de-France,Particulier,2024-04-01,Hardy Da Costa SA
+CLI-00431,professionnel,Réunion,Particulier,2022-04-20,Laetitia Gimenez
+CLI-00432,professionnel,Île-de-France,Particulier,2019-04-01,Lemaître
+CLI-00433,particulier,Île-de-France,Particulier,2023-01-16,Daniel Schmitt
+CLI-00434,particulier,Réunion,Particulier,2025-09-06,Franck Le Petit
+CLI-00435,professionnel,Île-de-France,Particulier,2023-03-22,Augustin Leroy
+CLI-00436,particulier,Île-de-France,Particulier,2024-11-07,Lesage
+CLI-00437,professionnel,Martinique,Particulier,2018-01-17,Yves-Marcel Martineau
+CLI-00438,professionnel,Île-de-France,Particulier,2019-12-23,Louis SA
+CLI-00439,particulier,Île-de-France,Particulier,2024-12-14,Adélaïde Germain
+CLI-00440,professionnel,Réunion,Particulier,2020-04-16,Noël Lemaire
+CLI-00441,particulier,Martinique,Particulier,2024-07-20,Daniel Le Meyer
+CLI-00442,professionnel,Île-de-France,Particulier,2022-09-26,Pierre
+CLI-00443,particulier,Île-de-France,Particulier,2018-03-24,Alain Ramos
+CLI-00444,professionnel,Martinique,Particulier,2025-12-01,Martin
+CLI-00445,professionnel,Guadeloupe,Particulier,2018-01-11,Brigitte de Germain
+CLI-00446,particulier,Réunion,Particulier,2018-12-02,Joséphine Prévost
+CLI-00447,professionnel,Martinique,Particulier,2024-07-03,Virginie Sauvage
+CLI-00448,professionnel,Île-de-France,Particulier,2021-05-10,Tristan Charrier de la Henry
+CLI-00449,professionnel,Île-de-France,Particulier,2021-06-04,Raynaud
+CLI-00450,particulier,Réunion,Particulier,2024-06-12,Charrier
+CLI-00451,particulier,Île-de-France,Particulier,2022-04-25,Emmanuel Wagner
+CLI-00452,particulier,Martinique,Particulier,2022-08-19,Faivre S.A.
+CLI-00453,professionnel,Réunion,Particulier,2019-05-26,Philippe
+CLI-00454,particulier,Réunion,Particulier,2024-06-20,Frédéric Perrier
+CLI-00455,particulier,Martinique,Particulier,2024-12-24,Lévêque
+CLI-00456,professionnel,Guyane,Particulier,2020-04-06,Laure Joubert
+CLI-00457,professionnel,Île-de-France,Particulier,2024-05-14,Aimée Delannoy
+CLI-00458,particulier,Île-de-France,Particulier,2025-10-26,Émilie Le Denis
+CLI-00459,particulier,Réunion,Particulier,2019-08-30,Humbert
+CLI-00460,particulier,Île-de-France,Particulier,2023-10-29,Masson SA
+CLI-00461,professionnel,Île-de-France,Particulier,2021-12-30,Morin S.A.S.
+CLI-00462,professionnel,Île-de-France,Particulier,2023-02-16,Augustin Le Weber
+CLI-00463,professionnel,Guyane,Particulier,2021-12-07,Ollivier Durand et Fils
+CLI-00464,particulier,Île-de-France,Particulier,2019-06-13,Barre
+CLI-00465,professionnel,Île-de-France,Particulier,2024-06-09,Petitjean
+CLI-00466,particulier,Île-de-France,Particulier,2021-09-24,Alexandrie de Vidal
+CLI-00467,particulier,Martinique,Particulier,2024-03-30,Victor Dupont
+CLI-00468,particulier,Guadeloupe,Particulier,2020-11-04,Philippe Renard
+CLI-00469,professionnel,Île-de-France,Particulier,2025-02-05,Daniel Denis
+CLI-00470,particulier,Martinique,Particulier,2019-06-24,Antoine Richard
+CLI-00471,professionnel,Guadeloupe,Particulier,2018-05-06,Élodie Hardy
+CLI-00472,particulier,Île-de-France,Particulier,2022-05-25,Durand Martins et Fils
+CLI-00473,professionnel,Île-de-France,Particulier,2022-09-28,Adélaïde Bouchet-Denis
+CLI-00474,particulier,Île-de-France,Particulier,2023-11-06,Anne Godard-Fleury
+CLI-00475,particulier,Île-de-France,Particulier,2021-08-14,Jean Perrot
+CLI-00476,particulier,Île-de-France,Particulier,2022-07-05,Élodie Toussaint
+CLI-00477,professionnel,Île-de-France,Particulier,2021-09-20,Emmanuel Lecomte
+CLI-00478,particulier,Île-de-France,Particulier,2021-12-28,Alphonse Robin
+CLI-00479,professionnel,Île-de-France,Particulier,2020-11-26,Renée Weber
+CLI-00480,particulier,Île-de-France,Particulier,2023-01-21,Madeleine Hamon
+CLI-00481,professionnel,Île-de-France,Particulier,2018-06-17,Olivier Le Goff
+CLI-00482,particulier,Île-de-France,Particulier,2018-02-19,Jean Dupuis de la Mace
+CLI-00483,professionnel,Guadeloupe,Particulier,2022-09-22,Renard SA
+CLI-00484,particulier,Île-de-France,Particulier,2026-02-09,Martineau
+CLI-00485,particulier,Île-de-France,Particulier,2018-12-26,Alain Lombard
+CLI-00486,particulier,Martinique,Particulier,2019-09-04,Christiane Garnier
+CLI-00487,particulier,Guyane,Particulier,2019-04-20,Roger Denis
+CLI-00488,particulier,Île-de-France,Particulier,2020-05-22,Alex-Brigitte Simon
+CLI-00489,particulier,Réunion,Particulier,2021-10-13,Charles De Oliveira
+CLI-00490,particulier,Martinique,Particulier,2022-04-25,Honoré Parent-Lebreton
+CLI-00491,particulier,Île-de-France,Particulier,2018-08-11,William Coulon
+CLI-00492,particulier,Guyane,Particulier,2025-07-26,Aimée Menard
+CLI-00493,particulier,Réunion,Particulier,2025-10-31,Michelle Boulay
+CLI-00494,particulier,Réunion,Particulier,2026-01-02,Bernard de la Nguyen
+CLI-00495,particulier,Île-de-France,Particulier,2022-10-27,Charlotte Delahaye
+CLI-00496,particulier,Martinique,Particulier,2024-03-23,Alfred Millet Le Lévy
+CLI-00497,particulier,Martinique,Particulier,2022-07-24,Valérie Barthelemy-Regnier
+CLI-00498,particulier,Martinique,Particulier,2025-01-09,Bernadette Barbier-Lebrun
+CLI-00499,particulier,Île-de-France,Particulier,2020-05-23,Monique Gillet
+CLI-00500,particulier,Île-de-France,Particulier,2022-12-10,Léon-Michel Chevallier
+CLI-00501,particulier,Guyane,Particulier,2020-06-08,Pineau
+CLI-00502,particulier,Guadeloupe,Particulier,2020-10-10,Delattre
+CLI-00503,professionnel,Île-de-France,Particulier,2020-08-31,Étienne
+CLI-00504,particulier,Île-de-France,Particulier,2018-01-26,De Oliveira Lebon SARL
+CLI-00505,professionnel,Martinique,Particulier,2020-11-28,Philippine-Margaud Pierre
+CLI-00506,particulier,Guadeloupe,Particulier,2024-12-01,Margaud Bigot
+CLI-00507,particulier,Île-de-France,Particulier,2018-07-24,Margot Bourgeois
+CLI-00508,professionnel,Guadeloupe,Particulier,2022-03-02,Josette-Anouk Bonnin
+CLI-00509,particulier,Île-de-France,Particulier,2024-05-15,Valérie de Aubry
+CLI-00510,professionnel,Réunion,Particulier,2018-04-22,Alexandria Potier
+CLI-00511,professionnel,Île-de-France,Particulier,2019-11-05,Martin Leblanc-Ollivier
+CLI-00512,professionnel,Île-de-France,Particulier,2024-11-03,Jérôme Perrier
+CLI-00513,particulier,Île-de-France,Particulier,2021-01-09,Olivier Jacquet
+CLI-00514,professionnel,Île-de-France,Particulier,2019-12-09,Édouard Pires
+CLI-00515,particulier,Martinique,Particulier,2018-09-27,Lombard
+CLI-00516,professionnel,Île-de-France,Particulier,2019-07-09,Richard Pereira
+CLI-00517,particulier,Île-de-France,Particulier,2020-06-14,Denise Gomez-Weber
+CLI-00518,particulier,Île-de-France,Particulier,2023-04-18,Lucie Besson
+CLI-00519,particulier,Martinique,Particulier,2024-12-28,Thibault Laporte
+CLI-00520,particulier,Guadeloupe,Particulier,2018-03-06,Henry
+CLI-00521,professionnel,Île-de-France,Particulier,2024-08-09,Devaux Pottier et Fils
+CLI-00522,particulier,Île-de-France,Particulier,2025-06-05,Gauthier
+CLI-00523,particulier,Île-de-France,Particulier,2022-06-25,Noémi Morin
+CLI-00524,professionnel,Île-de-France,Particulier,2021-09-22,Diaz et Fils
+CLI-00525,particulier,Île-de-France,Particulier,2023-01-20,Georges Blondel
+CLI-00526,professionnel,Île-de-France,Particulier,2021-05-26,Isaac Teixeira
+CLI-00527,particulier,Île-de-France,Particulier,2022-08-07,Gabriel Vidal-Briand
+CLI-00528,particulier,Île-de-France,Particulier,2021-07-13,Anaïs Valentin
+CLI-00529,particulier,Île-de-France,Particulier,2018-05-09,Da Silva
+CLI-00530,particulier,Guadeloupe,Particulier,2022-08-28,Morin Hamel et Fils
+CLI-00531,particulier,Guyane,Particulier,2023-05-26,Sabine Lebreton-Normand
+CLI-00532,particulier,Réunion,Particulier,2024-10-30,Anne Bailly
+CLI-00533,particulier,Île-de-France,Particulier,2025-02-26,Guy Texier
+CLI-00534,particulier,Réunion,Particulier,2022-12-07,Weiss SA
+CLI-00535,particulier,Île-de-France,Particulier,2018-03-02,Thibault Rey
+CLI-00536,particulier,Guadeloupe,Particulier,2025-10-28,Édith du Lejeune
+CLI-00537,particulier,Réunion,Particulier,2019-08-20,Camus
+CLI-00538,particulier,Île-de-France,Particulier,2021-07-31,Lemaire SARL
+CLI-00539,professionnel,Guadeloupe,Particulier,2020-05-14,Bourdon SARL
+CLI-00540,particulier,Île-de-France,Particulier,2022-04-11,Denis Barbier
+CLI-00541,particulier,Guadeloupe,Particulier,2020-05-02,Aimée Guillet
+CLI-00542,professionnel,Île-de-France,Particulier,2024-04-11,Josette Ledoux-Gallet
+CLI-00543,particulier,Île-de-France,Particulier,2023-04-01,Dorothée du Weiss
+CLI-00544,professionnel,Île-de-France,Particulier,2021-04-17,Ollivier S.A.S.
+CLI-00545,particulier,Île-de-France,Particulier,2024-02-10,Denis Leblanc
+CLI-00546,particulier,Guyane,Particulier,2025-01-28,Jacquet S.A.
+CLI-00547,particulier,Île-de-France,Particulier,2020-08-30,Thibaut Meunier
+CLI-00548,particulier,Île-de-France,Particulier,2021-03-29,Delattre
+CLI-00549,particulier,Île-de-France,Particulier,2022-11-30,Leduc S.A.
+CLI-00550,professionnel,Réunion,Particulier,2025-04-06,Josette Roy
+CLI-00551,professionnel,Île-de-France,Particulier,2018-01-29,François et Fils
+CLI-00552,professionnel,Île-de-France,Particulier,2019-07-16,Nicole Nicolas
+CLI-00553,particulier,Île-de-France,Particulier,2025-08-01,Parent
+CLI-00554,professionnel,Île-de-France,Particulier,2019-03-18,Clémence Leroux
+CLI-00555,professionnel,Île-de-France,Particulier,2024-06-10,Célina Maurice
+CLI-00556,professionnel,Île-de-France,Particulier,2020-01-16,Louis Leroux
+CLI-00557,particulier,Île-de-France,Particulier,2025-03-17,Suzanne Regnier
+CLI-00558,particulier,Guadeloupe,Particulier,2018-05-13,Margot Rémy de la Dumont
+CLI-00559,particulier,Île-de-France,Particulier,2024-08-01,Legendre Berger S.A.
+CLI-00560,particulier,Guyane,Particulier,2020-12-04,Auguste Guichard-Blanc
+CLI-00561,professionnel,Île-de-France,Particulier,2024-12-25,Pons S.A.S.
+CLI-00562,professionnel,Île-de-France,Particulier,2024-10-17,Gilbert Rocher
+CLI-00563,particulier,Guadeloupe,Particulier,2018-12-05,Monique du Ramos
+CLI-00564,professionnel,Île-de-France,Particulier,2022-12-15,Toussaint
+CLI-00565,particulier,Île-de-France,Particulier,2025-05-31,Nguyen Bouvier SARL
+CLI-00566,particulier,Île-de-France,Particulier,2025-08-20,Thibault Bertrand du Guyon
+CLI-00567,particulier,Île-de-France,Particulier,2026-01-19,Frédérique Samson Le Moreau
+CLI-00568,professionnel,Île-de-France,Particulier,2020-08-21,Christiane Klein-Blanchard
+CLI-00569,particulier,Île-de-France,Particulier,2022-03-22,Colette de Buisson
+CLI-00570,particulier,Île-de-France,Particulier,2020-10-13,Denis Brunel
+CLI-00571,particulier,Île-de-France,Particulier,2021-08-04,Augustin Fleury
+CLI-00572,particulier,Île-de-France,Particulier,2018-04-06,Louise Guyon
+CLI-00573,particulier,Île-de-France,Particulier,2022-07-26,Benjamin Gérard
+CLI-00574,particulier,Martinique,Particulier,2023-08-28,Monique Louis
+CLI-00575,particulier,Île-de-France,Particulier,2021-06-16,Céline Hoarau-Rossi
+CLI-00576,particulier,Martinique,Particulier,2023-05-26,Laurent-Théophile Prévost
+CLI-00577,particulier,Île-de-France,Particulier,2018-07-14,Margot de Rivière
+CLI-00578,particulier,Martinique,Particulier,2018-05-11,Antoine Gomes
+CLI-00579,particulier,Île-de-France,Particulier,2018-11-18,Anne-Christine Langlois
+CLI-00580,professionnel,Île-de-France,Particulier,2021-02-10,Arthur Tessier
+CLI-00581,particulier,Île-de-France,Particulier,2020-05-27,Reynaud Lemoine SARL
+CLI-00582,particulier,Île-de-France,Particulier,2022-05-18,Inès de Pereira
+CLI-00583,professionnel,Île-de-France,Particulier,2025-06-20,Auguste de Barbe
+CLI-00584,professionnel,Île-de-France,Particulier,2024-12-11,Zacharie Boucher
+CLI-00585,professionnel,Île-de-France,Particulier,2026-03-16,André Pasquier
+CLI-00586,particulier,Île-de-France,Particulier,2025-10-13,Daniel Mace
+CLI-00587,particulier,Île-de-France,Particulier,2021-09-25,Léger S.A.S.
+CLI-00588,particulier,Martinique,Particulier,2024-10-09,Agathe Guyon
+CLI-00589,particulier,Île-de-France,Particulier,2021-04-23,Paulette Noël du Boulanger
+CLI-00590,particulier,Île-de-France,Particulier,2021-09-13,Anouk François-Lenoir
+CLI-00591,particulier,Martinique,Particulier,2020-11-05,Emmanuelle de Ruiz
+CLI-00592,professionnel,Île-de-France,Particulier,2018-07-04,Margot Bernard
+CLI-00593,particulier,Île-de-France,Particulier,2023-10-04,Stéphanie Couturier de la Coulon
+CLI-00594,particulier,Martinique,Particulier,2026-01-24,Ledoux
+CLI-00595,particulier,Martinique,Particulier,2021-07-10,Charles Ollivier
+CLI-00596,professionnel,Île-de-France,Particulier,2018-12-24,Franck Hoarau
+CLI-00597,professionnel,Île-de-France,Particulier,2018-06-24,Rémy Maillard
+CLI-00598,particulier,Guadeloupe,Particulier,2025-07-22,Moreno S.A.
+CLI-00599,professionnel,Guadeloupe,Particulier,2023-11-27,Paul Charles
+CLI-00600,particulier,Île-de-France,Particulier,2019-03-27,Élodie Brun
+CLI-00601,professionnel,Île-de-France,Particulier,2019-02-04,Adrienne Leroux-Rossi
+CLI-00602,professionnel,Martinique,Particulier,2022-11-30,Noémi Garnier Le Guillon
+CLI-00603,professionnel,Martinique,Particulier,2024-08-27,Julie-Dominique Lombard
+CLI-00604,professionnel,Île-de-France,Particulier,2018-02-21,Guyot
+CLI-00605,particulier,Île-de-France,Particulier,2024-01-28,Christiane-Élise Olivier
+CLI-00606,particulier,Île-de-France,Particulier,2019-07-05,Navarro
+CLI-00607,particulier,Île-de-France,Particulier,2019-10-08,André de la Perrin
+CLI-00608,particulier,Île-de-France,Particulier,2020-08-10,Sylvie Albert
+CLI-00609,particulier,Guadeloupe,Particulier,2022-09-18,Théodore du Roche
+CLI-00610,particulier,Île-de-France,Particulier,2026-03-16,Thibaut Gaillard
+CLI-00611,particulier,Martinique,Particulier,2024-10-10,Thierry Bertrand S.A.
+CLI-00612,particulier,Martinique,Particulier,2026-02-01,Françoise Lévêque
+CLI-00613,particulier,Réunion,Particulier,2022-12-25,Laurence Petit
+CLI-00614,professionnel,Île-de-France,Particulier,2025-07-20,Éric Rémy
+CLI-00615,professionnel,Île-de-France,Particulier,2024-05-14,Luc Le Boucher
+CLI-00616,professionnel,Île-de-France,Particulier,2018-02-16,Seguin
+CLI-00617,particulier,Île-de-France,Particulier,2022-07-16,Sophie Albert
+CLI-00618,particulier,Île-de-France,Particulier,2025-04-14,Corinne Martel
+CLI-00619,particulier,Réunion,Particulier,2019-10-27,Agnès Thomas
+CLI-00620,particulier,Île-de-France,Particulier,2018-06-18,Loiseau
+CLI-00621,professionnel,Martinique,Particulier,2023-06-28,Barbe
+CLI-00622,particulier,Île-de-France,Particulier,2022-06-10,Petit Maillot SA
+CLI-00623,particulier,Martinique,Particulier,2023-10-23,Leclercq SA
+CLI-00624,professionnel,Guyane,Particulier,2025-09-01,Philippine Brun
+CLI-00625,particulier,Martinique,Particulier,2021-09-07,François Fischer
+CLI-00626,particulier,Guyane,Particulier,2023-11-06,Dorothée Marie
+CLI-00627,particulier,Réunion,Particulier,2023-01-17,Moreau S.A.
+CLI-00628,particulier,Île-de-France,Particulier,2022-05-19,Millet
+CLI-00629,particulier,Île-de-France,Particulier,2023-08-22,Capucine Wagner
+CLI-00630,particulier,Réunion,Particulier,2024-07-29,Henri Gérard
+CLI-00631,particulier,Île-de-France,Particulier,2021-03-26,Nicolas Lesage-Bertrand
+CLI-00632,particulier,Île-de-France,Particulier,2024-09-25,Delaunay Toussaint S.A.S.
+CLI-00633,particulier,Martinique,Particulier,2024-05-12,Chauveau
+CLI-00634,professionnel,Île-de-France,Particulier,2025-09-30,Léon Martinez-Boulay
+CLI-00635,particulier,Île-de-France,Particulier,2018-01-16,Barbe
+CLI-00636,professionnel,Île-de-France,Particulier,2020-06-01,Guérin
+CLI-00637,professionnel,Île-de-France,Particulier,2019-05-05,Christine Denis
+CLI-00638,particulier,Île-de-France,Particulier,2023-05-17,Stéphane Ruiz du Guyot
+CLI-00639,particulier,Île-de-France,Particulier,2024-01-22,Corinne-Jacqueline Leduc
+CLI-00640,particulier,Île-de-France,Particulier,2024-10-05,Édith Bonnet Le Julien
+CLI-00641,particulier,Guadeloupe,Particulier,2023-09-19,Anne-Susanne Dumont
+CLI-00642,particulier,Île-de-France,Particulier,2026-02-27,Colette Carpentier
+CLI-00643,particulier,Guadeloupe,Particulier,2022-04-20,Dominique Carlier
+CLI-00644,professionnel,Île-de-France,Particulier,2018-10-25,Jean Ramos-Gonzalez
+CLI-00645,particulier,Réunion,Particulier,2019-05-02,Denis Thibault SA
+CLI-00646,particulier,Martinique,Particulier,2021-12-01,Lecomte
+CLI-00647,particulier,Île-de-France,Particulier,2019-08-14,Denise Le Pottier
+CLI-00648,particulier,Île-de-France,Particulier,2022-04-17,Patricia Coste-Leclercq
+CLI-00649,particulier,Île-de-France,Particulier,2026-01-04,Valérie Clerc
+CLI-00650,particulier,Île-de-France,Particulier,2024-12-24,Geneviève Guyon
+CLI-00651,particulier,Île-de-France,Particulier,2018-12-15,Émilie Carlier de la Colas
+CLI-00652,particulier,Île-de-France,Particulier,2020-04-30,Legendre et Fils
+CLI-00653,particulier,Île-de-France,Particulier,2022-02-01,Honoré Leclerc de la Imbert
+CLI-00654,particulier,Réunion,Particulier,2021-05-07,Hugues Lefèvre
+CLI-00655,particulier,Île-de-France,Particulier,2024-08-11,Marcel Leroux
+CLI-00656,professionnel,Île-de-France,Particulier,2020-10-23,Bertrand Weiss
+CLI-00657,professionnel,Île-de-France,Particulier,2020-08-22,Bernard Petitjean-Turpin
+CLI-00658,professionnel,Île-de-France,Particulier,2021-01-18,Sabine-Agathe Masse
+CLI-00659,particulier,Île-de-France,Particulier,2020-11-22,Lefèvre SA
+CLI-00660,particulier,Île-de-France,Particulier,2019-06-04,Roger Garcia
+CLI-00661,particulier,Île-de-France,Particulier,2025-11-09,Agnès Mary
+CLI-00662,professionnel,Guadeloupe,Particulier,2021-04-06,Michèle Didier
+CLI-00663,particulier,Martinique,Particulier,2021-11-17,Bazin SARL
+CLI-00664,particulier,Guadeloupe,Particulier,2023-04-02,Sébastien Besnard
+CLI-00665,particulier,Île-de-France,Particulier,2024-02-28,Marine Boulay
+CLI-00666,particulier,Île-de-France,Particulier,2024-02-04,Monique Regnier
+CLI-00667,particulier,Île-de-France,Particulier,2025-12-02,Célina Reynaud
+CLI-00668,particulier,Île-de-France,Particulier,2021-04-04,Isabelle Le Le Goff
+CLI-00669,particulier,Île-de-France,Particulier,2022-11-17,Anaïs Blot
+CLI-00670,particulier,Île-de-France,Particulier,2020-04-29,Georges Pineau-Roussel
+CLI-00671,professionnel,Martinique,Particulier,2019-07-02,Pierre Joly
+CLI-00672,particulier,Île-de-France,Particulier,2018-04-04,Dos Santos
+CLI-00673,particulier,Guyane,Particulier,2019-08-08,Émilie Thomas
+CLI-00674,particulier,Réunion,Particulier,2019-03-10,Juliette de la Paul
+CLI-00675,particulier,Guadeloupe,Particulier,2024-08-06,Olivie Legros
+CLI-00676,particulier,Martinique,Particulier,2021-03-04,Maggie Rey
+CLI-00677,particulier,Martinique,Particulier,2019-09-28,Jean
+CLI-00678,particulier,Réunion,Particulier,2022-08-08,Étienne Buisson Le Grenier
+CLI-00679,particulier,Guadeloupe,Particulier,2025-02-09,Olivie Lombard
+CLI-00680,particulier,Île-de-France,Particulier,2022-01-11,Bernard
+CLI-00681,professionnel,Guyane,Particulier,2023-05-03,Olivie Fischer
+CLI-00682,particulier,Île-de-France,Particulier,2022-07-22,Raymond Chauvet-Camus
+CLI-00683,particulier,Île-de-France,Particulier,2021-07-04,Geneviève Lucas
+CLI-00684,professionnel,Réunion,Particulier,2024-10-16,Franck Baron-Foucher
+CLI-00685,particulier,Réunion,Particulier,2023-01-27,Édith Tessier
+CLI-00686,particulier,Île-de-France,Particulier,2021-09-09,Julie Navarro-Gaudin
+CLI-00687,particulier,Île-de-France,Particulier,2018-07-28,Leconte SARL
+CLI-00688,professionnel,Île-de-France,Particulier,2026-02-27,Mendès SARL
+CLI-00689,professionnel,Île-de-France,Particulier,2021-10-15,Alphonse Gauthier
+CLI-00690,particulier,Guadeloupe,Particulier,2022-07-11,Étienne S.A.S.
+CLI-00691,particulier,Guyane,Particulier,2025-12-12,Gaillard
+CLI-00692,particulier,Guadeloupe,Particulier,2019-12-07,Antoinette de Lagarde
+CLI-00693,particulier,Guyane,Particulier,2021-09-12,Charlotte Deschamps-Martins
+CLI-00694,particulier,Île-de-France,Particulier,2022-01-15,Marguerite Brunet
+CLI-00695,professionnel,Île-de-France,Particulier,2025-02-10,Valérie Roy
+CLI-00696,particulier,Île-de-France,Particulier,2018-12-15,Sébastien Nguyen de Mathieu
+CLI-00697,particulier,Île-de-France,Particulier,2023-04-24,Emmanuel Durand
+CLI-00698,professionnel,Île-de-France,Particulier,2024-11-13,William Rousseau
+CLI-00699,particulier,Île-de-France,Particulier,2018-06-26,Léon-Stéphane Laurent
+CLI-00700,professionnel,Île-de-France,Particulier,2020-09-23,Joséphine Allard
+CLI-00701,particulier,Île-de-France,Particulier,2018-03-25,Paul Martineau
+CLI-00702,particulier,Île-de-France,Particulier,2023-10-15,Picard S.A.
+CLI-00703,particulier,Île-de-France,Particulier,2025-03-08,Pelletier
+CLI-00704,particulier,Île-de-France,Particulier,2019-10-10,Céline Le Martins
+CLI-00705,particulier,Île-de-France,Particulier,2018-01-13,Brigitte de la Roussel
+CLI-00706,professionnel,Martinique,Particulier,2024-09-02,Petit François S.A.
+CLI-00707,particulier,Île-de-France,Particulier,2021-10-15,Roussel
+CLI-00708,particulier,Guadeloupe,Particulier,2019-03-08,Grenier S.A.S.
+CLI-00709,professionnel,Guyane,Particulier,2025-06-02,Richard Dupuis-Lecomte
+CLI-00710,particulier,Île-de-France,Particulier,2020-02-11,Noël-Paul Chevallier
+CLI-00711,particulier,Île-de-France,Particulier,2021-09-19,Alice Legrand
+CLI-00712,professionnel,Île-de-France,Particulier,2024-02-28,Bègue
+CLI-00713,professionnel,Guyane,Particulier,2023-05-18,Cécile Martinez
+CLI-00714,particulier,Île-de-France,Particulier,2023-09-12,Pons Hoarau S.A.S.
+CLI-00715,particulier,Île-de-France,Particulier,2023-12-16,Benjamin Nguyen de la Millet
+CLI-00716,professionnel,Île-de-France,Particulier,2018-04-09,Lemoine Mercier S.A.
+CLI-00717,particulier,Île-de-France,Particulier,2018-12-17,Édouard Auger Le Vincent
+CLI-00718,particulier,Île-de-France,Particulier,2023-07-27,Benoît Renault
+CLI-00719,particulier,Île-de-France,Particulier,2023-03-09,Baudry
+CLI-00720,particulier,Guadeloupe,Particulier,2021-03-06,Emmanuel Grégoire
+CLI-00721,particulier,Guyane,Particulier,2023-07-22,Millet Martin S.A.S.
+CLI-00722,professionnel,Guadeloupe,Particulier,2021-05-19,Amélie Devaux-Dupuis
+CLI-00723,particulier,Île-de-France,Particulier,2020-02-24,Baudry Legros SA
+CLI-00724,particulier,Guadeloupe,Particulier,2023-02-15,Georges Caron
+CLI-00725,particulier,Île-de-France,Particulier,2022-08-10,Dos Santos
+CLI-00726,particulier,Île-de-France,Particulier,2026-01-30,Suzanne Léger
+CLI-00727,particulier,Île-de-France,Particulier,2020-12-18,Bernard Fleury
+CLI-00728,particulier,Réunion,Particulier,2022-04-09,Raymond Pons-Denis
+CLI-00729,professionnel,Île-de-France,Particulier,2021-07-16,Alfred Delaunay
+CLI-00730,particulier,Île-de-France,Particulier,2020-01-28,Anne Poulain
+CLI-00731,particulier,Réunion,Particulier,2020-08-04,Fournier et Fils
+CLI-00732,particulier,Île-de-France,Particulier,2025-08-07,Sylvie Salmon
+CLI-00733,particulier,Île-de-France,Particulier,2024-09-16,Guillet et Fils
+CLI-00734,professionnel,Île-de-France,Particulier,2019-01-12,Potier S.A.
+CLI-00735,particulier,Guyane,Particulier,2023-07-30,Georges Le Boulay
+CLI-00736,particulier,Île-de-France,Particulier,2019-09-11,Dupont Fontaine S.A.S.
+CLI-00737,particulier,Île-de-France,Particulier,2024-07-22,Christophe Traore
+CLI-00738,particulier,Île-de-France,Particulier,2018-09-27,Marcel Denis
+CLI-00739,professionnel,Guadeloupe,Particulier,2018-12-01,Aurore Da Silva
+CLI-00740,professionnel,Île-de-France,Particulier,2019-05-10,Agathe Le Moreno
+CLI-00741,particulier,Île-de-France,Particulier,2024-03-08,Suzanne Bonnet
+CLI-00742,particulier,Île-de-France,Particulier,2020-02-28,Isaac Gaillard de la Lévy
+CLI-00743,particulier,Île-de-France,Particulier,2024-08-22,Catherine Marion
+CLI-00744,professionnel,Île-de-France,Particulier,2024-02-04,Gilbert Maillet
+CLI-00745,professionnel,Guyane,Particulier,2025-01-21,Benoît-Théodore Parent
+CLI-00746,particulier,Île-de-France,Particulier,2023-05-26,Anouk Fouquet
+CLI-00747,particulier,Martinique,Particulier,2025-05-18,Charpentier
+CLI-00748,particulier,Île-de-France,Particulier,2018-01-05,Sauvage S.A.S.
+CLI-00749,particulier,Île-de-France,Particulier,2021-04-20,Bonnin Louis S.A.R.L.
+CLI-00750,professionnel,Île-de-France,Particulier,2019-08-03,Édouard Vidal de Gilles
+CLI-00751,particulier,Île-de-France,Particulier,2019-03-02,Legendre S.A.R.L.
+CLI-00752,professionnel,Île-de-France,Particulier,2020-05-22,Vincent Aubry
+CLI-00753,particulier,Île-de-France,Particulier,2023-02-22,Robert Rousseau
+CLI-00754,professionnel,Île-de-France,Particulier,2020-01-18,Petit SA
+CLI-00755,particulier,Île-de-France,Particulier,2022-05-22,Gilbert Charles
+CLI-00756,particulier,Île-de-France,Particulier,2022-07-25,Mathieu
+CLI-00757,particulier,Île-de-France,Particulier,2018-12-22,Joseph Morin de la Durand
+CLI-00758,particulier,Île-de-France,Particulier,2018-11-17,Éric Clerc
+CLI-00759,professionnel,Guadeloupe,Particulier,2020-10-17,Tanguy
+CLI-00760,professionnel,Île-de-France,Particulier,2022-02-03,Augustin Schmitt
+CLI-00761,particulier,Île-de-France,Particulier,2024-09-14,Bonneau
+CLI-00762,particulier,Île-de-France,Particulier,2024-08-28,Célina Turpin
+CLI-00763,particulier,Île-de-France,Particulier,2020-01-16,Salmon
+CLI-00764,professionnel,Île-de-France,Particulier,2022-11-07,Céline Barbe
+CLI-00765,particulier,Île-de-France,Particulier,2023-03-04,Luc Bodin
+CLI-00766,professionnel,Île-de-France,Particulier,2018-02-19,Lelièvre
+CLI-00767,particulier,Martinique,Particulier,2023-10-04,Garnier S.A.R.L.
+CLI-00768,particulier,Martinique,Particulier,2020-03-03,Gillet Guyot S.A.
+CLI-00769,professionnel,Île-de-France,Particulier,2019-04-20,Pierre Da Costa
+CLI-00770,particulier,Réunion,Particulier,2019-04-03,Ruiz
+CLI-00771,particulier,Île-de-France,Particulier,2022-03-22,Grégoire
+CLI-00772,particulier,Île-de-France,Particulier,2024-09-14,Guillaume de Thierry
+CLI-00773,particulier,Île-de-France,Particulier,2025-02-23,Noël Boulanger
+CLI-00774,particulier,Réunion,Particulier,2022-07-06,De Sousa François S.A.S.
+CLI-00775,professionnel,Île-de-France,Particulier,2022-08-28,Élodie Regnier
+CLI-00776,particulier,Île-de-France,Particulier,2022-05-04,Jeanne Faure
+CLI-00777,particulier,Île-de-France,Particulier,2020-03-01,Danielle Faivre
+CLI-00778,particulier,Guadeloupe,Particulier,2020-12-25,Huet
+CLI-00779,particulier,Guyane,Particulier,2024-05-25,Martin Millet S.A.R.L.
+CLI-00780,professionnel,Guadeloupe,Particulier,2021-02-12,Antoinette Leconte Le Lefèvre
+CLI-00781,particulier,Martinique,Particulier,2023-06-22,Thibaut-Bertrand Huet
+CLI-00782,professionnel,Île-de-France,Particulier,2018-07-13,Gilles Blondel
+CLI-00783,professionnel,Île-de-France,Particulier,2019-05-22,Nicolas Besnard
+CLI-00784,particulier,Île-de-France,Particulier,2020-03-22,Launay Pineau S.A.S.
+CLI-00785,professionnel,Martinique,Particulier,2025-12-17,Véronique Renault
+CLI-00786,particulier,Île-de-France,Particulier,2024-11-16,Roland Fabre
+CLI-00787,particulier,Île-de-France,Particulier,2022-11-30,Thomas Noël-Sauvage
+CLI-00788,professionnel,Île-de-France,Particulier,2022-02-02,Luc de Bigot
+CLI-00789,particulier,Réunion,Particulier,2019-01-26,Théophile Godard
+CLI-00790,professionnel,Île-de-France,Particulier,2019-07-24,Pierre Thibault
+CLI-00791,particulier,Île-de-France,Particulier,2018-02-07,Suzanne Salmon
+CLI-00792,particulier,Île-de-France,Particulier,2018-02-15,Camille Moulin-Mathieu
+CLI-00793,professionnel,Île-de-France,Particulier,2021-08-07,Colette Gonzalez
+CLI-00794,professionnel,Île-de-France,Particulier,2020-02-23,Tristan Tanguy du Lucas
+CLI-00795,particulier,Île-de-France,Particulier,2022-05-10,Robert
+CLI-00796,professionnel,Île-de-France,Particulier,2020-06-27,Théodore Lopez-Lopez
+CLI-00797,particulier,Île-de-France,Particulier,2025-12-17,Denis
+CLI-00798,particulier,Île-de-France,Particulier,2023-11-28,Lemaître
+CLI-00799,particulier,Île-de-France,Particulier,2020-05-01,Boulanger Traore SA
+CLI-00800,professionnel,Île-de-France,Particulier,2025-06-08,Laurent-Auguste Vallée
+CLI-00801,particulier,Réunion,Particulier,2024-12-01,Verdier
+CLI-00802,particulier,Île-de-France,Particulier,2025-07-28,Dubois
+CLI-00803,particulier,Martinique,Particulier,2019-11-07,Stéphanie Clément
+CLI-00804,particulier,Réunion,Particulier,2020-08-12,Pelletier Bourgeois SA
+CLI-00805,particulier,Île-de-France,Particulier,2018-10-21,Labbé Gallet SA
+CLI-00806,particulier,Île-de-France,Particulier,2023-05-19,Pauline de la Faivre
+CLI-00807,particulier,Île-de-France,Particulier,2025-09-23,Alex Imbert de Bonnet
+CLI-00808,particulier,Guadeloupe,Particulier,2025-03-02,Colin et Fils
+CLI-00809,particulier,Île-de-France,Particulier,2025-03-19,Christophe Renaud
+CLI-00810,particulier,Île-de-France,Particulier,2021-06-28,Texier S.A.R.L.
+CLI-00811,professionnel,Réunion,Particulier,2018-12-16,Élisabeth Fontaine
+CLI-00812,particulier,Île-de-France,Particulier,2020-04-17,Marc Chevallier-Marie
+CLI-00813,particulier,Île-de-France,Particulier,2018-06-28,Marc-Bertrand Dos Santos
+CLI-00814,particulier,Martinique,Particulier,2020-01-09,Jean Georges
+CLI-00815,professionnel,Guadeloupe,Particulier,2024-02-26,Xavier Roy du Vaillant
+CLI-00816,professionnel,Réunion,Particulier,2020-09-25,Franck Paul Le Lenoir
+CLI-00817,particulier,Île-de-France,Particulier,2023-07-27,Thierry Chauvet
+CLI-00818,particulier,Guadeloupe,Particulier,2023-06-20,Martin Chauvin-Pinto
+CLI-00819,particulier,Île-de-France,Particulier,2018-01-10,Lucas-Yves Courtois
+CLI-00820,particulier,Guadeloupe,Particulier,2025-04-01,Marcelle Le Gall-Joly
+CLI-00821,particulier,Martinique,Particulier,2019-02-12,Arthur Labbé de la Richard
+CLI-00822,particulier,Île-de-France,Particulier,2023-10-11,Lambert
+CLI-00823,professionnel,Île-de-France,Particulier,2024-12-03,David Aubert
+CLI-00824,particulier,Île-de-France,Particulier,2018-09-05,Astrid Le Chauveau
+CLI-00825,particulier,Île-de-France,Particulier,2021-04-07,Lucas Bourdon
+CLI-00826,professionnel,Île-de-France,Particulier,2019-01-15,Cécile Masse du Moreau
+CLI-00827,particulier,Martinique,Particulier,2021-07-21,Daniel Collet-Fleury
+CLI-00828,particulier,Île-de-France,Particulier,2024-08-29,Augustin Adam
+CLI-00829,particulier,Île-de-France,Particulier,2019-11-27,Jacques Delmas-Girard
+CLI-00830,professionnel,Île-de-France,Particulier,2024-05-16,Odette Samson-Da Costa
+CLI-00831,professionnel,Île-de-France,Particulier,2020-05-10,Deschamps
+CLI-00832,professionnel,Île-de-France,Particulier,2019-02-05,Patrick Lefèvre
+CLI-00833,professionnel,Martinique,Particulier,2019-04-10,Maggie Perrin
+CLI-00834,professionnel,Île-de-France,Particulier,2022-06-02,Cécile Hardy
+CLI-00835,particulier,Guyane,Particulier,2023-08-18,Dupuis Guilbert et Fils
+CLI-00836,professionnel,Martinique,Particulier,2025-05-09,Moulin Guilbert S.A.S.
+CLI-00837,professionnel,Île-de-France,Particulier,2020-08-07,Josette Le Roux
+CLI-00838,particulier,Île-de-France,Particulier,2018-11-12,Éric Pinto
+CLI-00839,particulier,Île-de-France,Particulier,2018-12-27,Jeanne Bazin du Clément
+CLI-00840,professionnel,Île-de-France,Particulier,2020-01-01,Guyot
+CLI-00841,particulier,Guyane,Particulier,2020-06-29,Philippe Fleury
+CLI-00842,particulier,Île-de-France,Particulier,2024-03-15,Auguste Mendès
+CLI-00843,particulier,Île-de-France,Particulier,2023-06-04,Bailly
+CLI-00844,professionnel,Martinique,Particulier,2023-10-03,Éric Simon
+CLI-00845,professionnel,Île-de-France,Particulier,2025-09-04,Courtois
+CLI-00846,particulier,Martinique,Particulier,2025-10-02,Timothée Maury de Dufour
+CLI-00847,particulier,Île-de-France,Particulier,2022-02-10,Bourgeois Besnard S.A.
+CLI-00848,particulier,Île-de-France,Particulier,2019-04-14,Alexandrie Leconte
+CLI-00849,particulier,Île-de-France,Particulier,2020-12-10,Jeanne Dupré du Lopes
+CLI-00850,particulier,Guadeloupe,Particulier,2026-01-24,Alexandrie Jacquot
+CLI-00851,professionnel,Martinique,Particulier,2022-12-21,Alex Weiss Le Ruiz
+CLI-00852,professionnel,Île-de-France,Particulier,2023-07-05,Paul du Jourdan
+CLI-00853,professionnel,Île-de-France,Particulier,2019-02-03,Jules Rivière-Antoine
+CLI-00854,particulier,Guyane,Particulier,2019-08-08,Christophe de Roche
+CLI-00855,particulier,Martinique,Particulier,2025-06-22,Éric Garnier
+CLI-00856,particulier,Île-de-France,Particulier,2023-10-06,Virginie de la Mace
+CLI-00857,professionnel,Île-de-France,Particulier,2018-11-14,Raymond Masson
+CLI-00858,particulier,Réunion,Particulier,2020-07-08,Yves Gilbert
+CLI-00859,particulier,Guadeloupe,Particulier,2022-11-03,Arthur-Frédéric Valentin
+CLI-00860,particulier,Île-de-France,Particulier,2024-09-14,Mercier
+CLI-00861,particulier,Île-de-France,Particulier,2022-06-14,Franck Clément
+CLI-00862,professionnel,Île-de-France,Particulier,2020-01-22,Maurice SA
+CLI-00863,particulier,Île-de-France,Particulier,2026-02-13,Laurent Gomes
+CLI-00864,particulier,Guyane,Particulier,2023-12-02,Maryse Delmas
+CLI-00865,particulier,Île-de-France,Particulier,2018-01-20,Aurélie Garcia de Masson
+CLI-00866,particulier,Île-de-France,Particulier,2025-02-25,Antoinette Mallet
+CLI-00867,professionnel,Île-de-France,Particulier,2021-12-10,René Hardy
+CLI-00868,particulier,Île-de-France,Particulier,2023-07-15,Laetitia Jacques
+CLI-00869,particulier,Île-de-France,Particulier,2024-11-24,Neveu
+CLI-00870,particulier,Île-de-France,Particulier,2023-05-22,Legendre SA
+CLI-00871,particulier,Île-de-France,Particulier,2021-12-08,Marthe Leroy
+CLI-00872,particulier,Île-de-France,Particulier,2020-02-23,Catherine de Martel
+CLI-00873,particulier,Île-de-France,Particulier,2025-03-22,Gabriel-Benoît Dubois
+CLI-00874,professionnel,Réunion,Particulier,2020-11-29,André Da Costa-Pinto
+CLI-00875,particulier,Guyane,Particulier,2024-12-12,Alice Vaillant
+CLI-00876,particulier,Île-de-France,Particulier,2018-02-24,Gabrielle Lambert
+CLI-00877,particulier,Réunion,Particulier,2024-06-12,Jules Gros
+CLI-00878,particulier,Martinique,Particulier,2022-10-03,Auguste de Dupuis
+CLI-00879,particulier,Martinique,Particulier,2020-07-02,Barbe S.A.
+CLI-00880,particulier,Réunion,Particulier,2024-05-12,Adrien Foucher-Traore
+CLI-00881,particulier,Île-de-France,Particulier,2018-11-25,Schneider Fleury S.A.
+CLI-00882,particulier,Île-de-France,Particulier,2022-03-27,Thérèse-Maryse Jacquot
+CLI-00883,particulier,Île-de-France,Particulier,2020-07-13,Pichon
+CLI-00884,particulier,Île-de-France,Particulier,2023-08-11,Maillet
+CLI-00885,particulier,Île-de-France,Particulier,2023-03-11,Garcia Germain et Fils
+CLI-00886,particulier,Île-de-France,Particulier,2021-11-19,Olivier Dumont-Henry
+CLI-00887,particulier,Île-de-France,Particulier,2019-11-12,Zoé-Hélène Berger
+CLI-00888,particulier,Martinique,Particulier,2021-02-02,Colette Pons
+CLI-00889,particulier,Guyane,Particulier,2020-06-21,Munoz
+CLI-00890,professionnel,Guadeloupe,Particulier,2022-02-24,Timothée Boulanger
+CLI-00891,professionnel,Guyane,Particulier,2019-09-04,Christophe Vallet-Pierre
+CLI-00892,particulier,Île-de-France,Particulier,2020-10-12,Noël Moreau S.A.
+CLI-00893,professionnel,Île-de-France,Particulier,2019-11-13,Mathilde Lombard
+CLI-00894,particulier,Île-de-France,Particulier,2019-03-19,Thérèse-Margot Rousseau
+CLI-00895,particulier,Île-de-France,Particulier,2021-07-06,Thierry Bodin
+CLI-00896,professionnel,Île-de-France,Particulier,2022-09-05,Gilles Marques
+CLI-00897,professionnel,Île-de-France,Particulier,2021-01-20,Alex Riou
+CLI-00898,particulier,Guyane,Particulier,2022-08-26,Louis Leroy-Payet
+CLI-00899,particulier,Île-de-France,Particulier,2019-02-12,Joseph Blanc
+CLI-00900,professionnel,Martinique,Particulier,2019-04-18,Robert Langlois
+CLI-00901,particulier,Île-de-France,Particulier,2019-03-24,Henri Rivière
+CLI-00902,particulier,Île-de-France,Particulier,2022-11-11,Sabine Legendre
+CLI-00903,professionnel,Île-de-France,Particulier,2022-02-22,François Blanc
+CLI-00904,particulier,Île-de-France,Particulier,2020-01-27,Alfred Robin-Fernandes
+CLI-00905,particulier,Île-de-France,Particulier,2025-04-21,Océane Maurice
+CLI-00906,professionnel,Île-de-France,Particulier,2026-01-28,Mathieu
+CLI-00907,particulier,Martinique,Particulier,2019-04-12,Baudry
+CLI-00908,particulier,Île-de-France,Particulier,2019-06-14,Nath Le Roux
+CLI-00909,particulier,Île-de-France,Particulier,2024-06-15,Christophe Neveu
+CLI-00910,particulier,Île-de-France,Particulier,2022-12-30,Lamy
+CLI-00911,particulier,Île-de-France,Particulier,2020-09-17,Descamps
+CLI-00912,particulier,Guyane,Particulier,2023-09-29,Hamel Gros S.A.R.L.
+CLI-00913,particulier,Guadeloupe,Particulier,2020-03-26,Richard Gonzalez du Leroux
+CLI-00914,professionnel,Île-de-France,Particulier,2022-12-16,Isabelle Brun
+CLI-00915,professionnel,Île-de-France,Particulier,2024-10-28,Marie
+CLI-00916,professionnel,Île-de-France,Particulier,2019-08-24,Dumas
+CLI-00917,professionnel,Île-de-France,Particulier,2023-04-07,Gonzalez
+CLI-00918,particulier,Île-de-France,Particulier,2023-05-01,Poirier
+CLI-00919,particulier,Île-de-France,Particulier,2020-07-09,Thierry de Guyot
+CLI-00920,professionnel,Île-de-France,Particulier,2020-08-25,Maury SA
+CLI-00921,professionnel,Île-de-France,Particulier,2018-12-30,Alphonse Baudry
+CLI-00922,particulier,Île-de-France,Particulier,2023-08-01,Marcelle-Pénélope Petitjean
+CLI-00923,particulier,Île-de-France,Particulier,2022-06-19,Marc Henry du Samson
+CLI-00924,particulier,Île-de-France,Particulier,2021-12-22,Jules Hoarau
+CLI-00925,particulier,Réunion,Particulier,2025-07-10,Cécile Lacombe
+CLI-00926,particulier,Martinique,Particulier,2019-12-27,Noémi Millet Le Chauveau
+CLI-00927,particulier,Île-de-France,Particulier,2019-03-12,Odette Boulanger
+CLI-00928,particulier,Martinique,Particulier,2025-10-14,Arthur Mendès
+CLI-00929,professionnel,Île-de-France,Particulier,2023-08-22,Stéphane Perret
+CLI-00930,particulier,Île-de-France,Particulier,2025-10-20,Philippe Leconte
+CLI-00931,professionnel,Île-de-France,Particulier,2021-11-30,Lorraine Ferreira
+CLI-00932,particulier,Île-de-France,Particulier,2018-03-30,Odette Schmitt
+CLI-00933,particulier,Guadeloupe,Particulier,2024-05-15,Louis Menard
+CLI-00934,particulier,Île-de-France,Particulier,2020-02-11,Alexandre Pichon-Bodin
+CLI-00935,particulier,Guadeloupe,Particulier,2024-03-14,Roland Muller
+CLI-00936,particulier,Martinique,Particulier,2019-09-14,Garcia Prévost SA
+CLI-00937,professionnel,Île-de-France,Particulier,2022-10-04,Luc Samson
+CLI-00938,particulier,Réunion,Particulier,2026-02-22,Gimenez
+CLI-00939,professionnel,Île-de-France,Particulier,2022-10-22,Noël Navarro
+CLI-00940,particulier,Île-de-France,Particulier,2023-04-29,Léon Jacquot
+CLI-00941,professionnel,Réunion,Particulier,2021-10-27,Richard Ferreira
+CLI-00942,professionnel,Île-de-France,Particulier,2020-07-07,François
+CLI-00943,particulier,Île-de-France,Particulier,2020-03-15,Stéphane Dumas
+CLI-00944,particulier,Île-de-France,Particulier,2025-06-01,Océane Maréchal
+CLI-00945,particulier,Île-de-France,Particulier,2020-03-08,Bernier Hamon SARL
+CLI-00946,particulier,Île-de-France,Particulier,2018-03-26,Astrid Collin
+CLI-00947,professionnel,Île-de-France,Particulier,2023-09-27,William Delorme
+CLI-00948,professionnel,Île-de-France,Particulier,2022-06-20,Margot Renaud
+CLI-00949,particulier,Île-de-France,Particulier,2021-02-03,Marianne Gilles
+CLI-00950,particulier,Île-de-France,Particulier,2020-09-17,Jacques Fernandez
+CLI-00951,particulier,Île-de-France,Particulier,2021-08-13,Adrienne Sanchez Le Alves
+CLI-00952,particulier,Martinique,Particulier,2023-01-13,Thibaut Sanchez
+CLI-00953,professionnel,Guadeloupe,Particulier,2025-06-02,Traore Renard SARL
+CLI-00954,professionnel,Île-de-France,Particulier,2020-12-08,Laetitia Martinez
+CLI-00955,professionnel,Réunion,Particulier,2025-07-24,Aurélie du Martinez
+CLI-00956,particulier,Île-de-France,Particulier,2019-06-30,Jules Adam
+CLI-00957,particulier,Guadeloupe,Particulier,2025-08-28,Monique Guibert
+CLI-00958,particulier,Île-de-France,Particulier,2019-10-14,Brunet Noël SA
+CLI-00959,professionnel,Île-de-France,Particulier,2024-12-02,Patricia Lemaître-Lenoir
+CLI-00960,particulier,Île-de-France,Particulier,2020-05-02,Véronique Antoine-Perrier
+CLI-00961,particulier,Île-de-France,Particulier,2022-06-27,Laure Da Silva
+CLI-00962,particulier,Île-de-France,Particulier,2019-06-05,Sanchez Renard S.A.R.L.
+CLI-00963,particulier,Île-de-France,Particulier,2022-02-02,Toussaint Jacques SARL
+CLI-00964,particulier,Île-de-France,Particulier,2023-08-11,Legros Gaudin SARL
+CLI-00965,particulier,Île-de-France,Particulier,2018-03-23,Pruvost SA
+CLI-00966,particulier,Île-de-France,Particulier,2021-06-23,Leduc Laurent S.A.R.L.
+CLI-00967,professionnel,Île-de-France,Particulier,2026-02-03,Boutin Lebreton SARL
+CLI-00968,particulier,Île-de-France,Particulier,2019-09-21,Rémy-Matthieu Moreno
+CLI-00969,particulier,Guyane,Particulier,2024-01-16,Éléonore Fabre du Rousset
+CLI-00970,professionnel,Île-de-France,Particulier,2022-08-27,Lorraine Jourdan
+CLI-00971,particulier,Île-de-France,Particulier,2018-10-08,Gilbert François
+CLI-00972,particulier,Île-de-France,Particulier,2022-04-27,Roland Pires
+CLI-00973,particulier,Réunion,Particulier,2020-01-04,Denis Da Silva
+CLI-00974,professionnel,Île-de-France,Particulier,2021-08-18,Gabrielle-Jeannine Philippe
+CLI-00975,particulier,Guyane,Particulier,2019-09-24,Michelle Mercier
+CLI-00976,professionnel,Réunion,Particulier,2026-01-13,Jacqueline Gaudin
+CLI-00977,particulier,Île-de-France,Particulier,2025-05-26,Gimenez
+CLI-00978,professionnel,Guadeloupe,Particulier,2019-06-23,Noémi Meyer
+CLI-00979,particulier,Île-de-France,Particulier,2018-10-28,Delmas Da Costa SARL
+CLI-00980,professionnel,Île-de-France,Particulier,2020-08-04,Blanc Goncalves et Fils
+CLI-00981,particulier,Île-de-France,Particulier,2018-05-24,Richard Delahaye S.A.S.
+CLI-00982,professionnel,Île-de-France,Particulier,2018-09-26,Georges Foucher du Antoine
+CLI-00983,particulier,Île-de-France,Particulier,2022-12-12,Michel Leblanc
+CLI-00984,particulier,Île-de-France,Particulier,2019-06-14,Honoré Pons
+CLI-00985,particulier,Île-de-France,Particulier,2019-02-27,Camus SA
+CLI-00986,professionnel,Île-de-France,Particulier,2026-02-09,Eugène de la Bernard
+CLI-00987,particulier,Île-de-France,Particulier,2023-02-22,Frédéric Marie
+CLI-00988,professionnel,Guadeloupe,Particulier,2025-12-11,Agathe Maillet
+CLI-00989,professionnel,Guyane,Particulier,2020-11-01,Léon Pires-Faure
+CLI-00990,professionnel,Île-de-France,Particulier,2021-06-21,Louise Paris
+CLI-00991,particulier,Île-de-France,Particulier,2018-10-02,Alice Guillaume Le Philippe
+CLI-00992,professionnel,Île-de-France,Particulier,2025-12-03,Thomas
+CLI-00993,particulier,Île-de-France,Particulier,2018-05-21,Mahe Hardy SARL
+CLI-00994,professionnel,Île-de-France,Particulier,2018-07-22,Roland Chevallier
+CLI-00995,professionnel,Île-de-France,Particulier,2020-02-29,Schmitt
+CLI-00996,particulier,Île-de-France,Particulier,2020-02-25,Georges Neveu
+CLI-00997,particulier,Île-de-France,Particulier,2023-09-13,Geneviève Traore
+CLI-00998,professionnel,Martinique,Particulier,2022-02-15,Alexandria-Laetitia Weber
+CLI-00999,particulier,Réunion,Particulier,2026-03-11,Martin Chrétien
+CLI-01000,particulier,Martinique,Particulier,2018-11-08,Seguin
+CLI-01001,particulier,Martinique,Particulier,2018-12-12,Nathalie Lebrun
+CLI-01002,particulier,Île-de-France,Particulier,2023-10-15,Valérie Mahe
+CLI-01003,particulier,Réunion,Particulier,2020-04-16,Nathalie Georges-Olivier
+CLI-01004,particulier,Guadeloupe,Particulier,2021-04-17,Noël Le Lemonnier
+CLI-01005,professionnel,Martinique,Particulier,2023-11-22,Joséphine Delahaye
+CLI-01006,particulier,Île-de-France,Particulier,2021-02-16,Julien Bailly
+CLI-01007,particulier,Île-de-France,Particulier,2023-02-13,Paul
+CLI-01008,particulier,Île-de-France,Particulier,2026-02-02,Pauline Grenier
+CLI-01009,particulier,Réunion,Particulier,2023-03-22,Gomes
+CLI-01010,particulier,Guadeloupe,Particulier,2025-09-16,Valérie Lévêque-Roussel
+CLI-01011,professionnel,Île-de-France,Particulier,2025-05-15,Jeannine-Philippine Voisin
+CLI-01012,professionnel,Réunion,Particulier,2021-05-03,William Ramos
+CLI-01013,professionnel,Guadeloupe,Particulier,2019-02-16,Olivie Carlier
+CLI-01014,particulier,Île-de-France,Particulier,2023-11-08,Millet Barthelemy S.A.R.L.
+CLI-01015,particulier,Île-de-France,Particulier,2025-09-13,Roger Guillou
+CLI-01016,particulier,Île-de-France,Particulier,2018-11-15,Gilbert Thibault
+CLI-01017,professionnel,Île-de-France,Particulier,2021-08-17,Evrard
+CLI-01018,particulier,Guadeloupe,Particulier,2020-10-03,Claude-Célina Foucher
+CLI-01019,particulier,Île-de-France,Particulier,2023-03-02,Jeanne Huet du Marty
+CLI-01020,particulier,Île-de-France,Particulier,2024-11-17,Étienne Martel
+CLI-01021,particulier,Île-de-France,Particulier,2018-03-28,Alexandria Gaillard
+CLI-01022,particulier,Martinique,Particulier,2024-03-17,Alexandrie Navarro
+CLI-01023,particulier,Île-de-France,Particulier,2024-04-26,Colas S.A.
+CLI-01024,professionnel,Île-de-France,Particulier,2025-12-21,Noël Jacob
+CLI-01025,particulier,Guyane,Particulier,2025-04-16,Stéphane-Isaac Costa
+CLI-01026,particulier,Guadeloupe,Particulier,2021-06-27,Hugues Vallée
+CLI-01027,particulier,Île-de-France,Particulier,2019-10-31,Lucy Weber
+CLI-01028,particulier,Île-de-France,Particulier,2023-10-08,Maryse Bègue
+CLI-01029,particulier,Île-de-France,Particulier,2023-06-25,Alfred-Stéphane Marion
+CLI-01030,particulier,Île-de-France,Particulier,2026-02-26,Bertrand Dufour
+CLI-01031,professionnel,Île-de-France,Particulier,2024-07-16,Noël Renault-Devaux
+CLI-01032,professionnel,Île-de-France,Particulier,2018-09-14,Léon de Marty
+CLI-01033,particulier,Île-de-France,Particulier,2020-12-14,Geneviève-Suzanne Auger
+CLI-01034,particulier,Île-de-France,Particulier,2022-04-21,Xavier Rousset de Le Goff
+CLI-01035,professionnel,Île-de-France,Particulier,2023-12-30,Honoré Hardy
+CLI-01036,particulier,Réunion,Particulier,2018-08-03,De Sousa S.A.S.
+CLI-01037,particulier,Île-de-France,Particulier,2020-12-07,Perez Colas SARL
+CLI-01038,particulier,Guadeloupe,Particulier,2023-06-25,Normand Dubois et Fils
+CLI-01039,particulier,Guadeloupe,Particulier,2019-03-25,Claudine Bodin Le Becker
+CLI-01040,particulier,Guadeloupe,Particulier,2021-08-20,Grégoire-Emmanuel Couturier
+CLI-01041,professionnel,Île-de-France,Particulier,2024-08-04,Nath Le Rodrigues
+CLI-01042,particulier,Île-de-France,Particulier,2019-11-23,Nathalie-Manon Berger
+CLI-01043,particulier,Île-de-France,Particulier,2024-01-19,Georges-Franck Menard
+CLI-01044,professionnel,Île-de-France,Particulier,2020-09-23,Adélaïde Gosselin
+CLI-01045,particulier,Île-de-France,Particulier,2025-07-30,Bourdon
+CLI-01046,particulier,Île-de-France,Particulier,2021-04-21,Benoît Guillon de la Maillet
+CLI-01047,particulier,Île-de-France,Particulier,2021-09-23,Evrard
+CLI-01048,particulier,Martinique,Particulier,2020-06-01,Luce Chrétien
+CLI-01049,professionnel,Martinique,Particulier,2018-12-20,Marc Lefebvre
+CLI-01050,professionnel,Guyane,Particulier,2020-01-14,Jean Delannoy
+CLI-01051,particulier,Île-de-France,Particulier,2021-08-19,Girard
+CLI-01052,particulier,Île-de-France,Particulier,2022-05-19,Maggie-Pénélope Rossi
+CLI-01053,particulier,Île-de-France,Particulier,2024-08-09,Faivre
+CLI-01054,particulier,Guyane,Particulier,2021-09-29,Roux
+CLI-01055,particulier,Île-de-France,Particulier,2018-03-17,Benoît Pruvost
+CLI-01056,particulier,Réunion,Particulier,2023-07-05,Raymond Vasseur
+CLI-01057,particulier,Réunion,Particulier,2021-02-26,Bodin
+CLI-01058,professionnel,Martinique,Particulier,2019-10-18,Meyer
+CLI-01059,particulier,Île-de-France,Particulier,2025-08-01,Picard SARL
+CLI-01060,particulier,Île-de-France,Particulier,2024-12-18,Andrée Guillou du Moulin
+CLI-01061,professionnel,Guyane,Particulier,2018-01-14,Sébastien Evrard
+CLI-01062,particulier,Île-de-France,Particulier,2022-10-30,Raymond Teixeira
+CLI-01063,professionnel,Guyane,Particulier,2025-12-23,Louise Bazin
+CLI-01064,particulier,Île-de-France,Particulier,2021-02-04,Grégoire Garnier
+CLI-01065,professionnel,Guadeloupe,Particulier,2022-06-29,Cécile Colin
+CLI-01066,particulier,Île-de-France,Particulier,2022-05-23,Manon de Launay
+CLI-01067,professionnel,Île-de-France,Particulier,2020-10-04,Bigot
+CLI-01068,particulier,Guadeloupe,Particulier,2023-11-04,Odette-Margot Mary
+CLI-01069,particulier,Île-de-France,Particulier,2021-10-05,Marie Merle
+CLI-01070,particulier,Île-de-France,Particulier,2026-02-15,Augustin-Alexandre Fernandes
+CLI-01071,particulier,Île-de-France,Particulier,2019-02-27,Millet
+CLI-01072,particulier,Réunion,Particulier,2024-03-10,Alves S.A.S.
+CLI-01073,professionnel,Guadeloupe,Particulier,2023-03-05,Marianne Dubois
+CLI-01074,particulier,Martinique,Particulier,2020-06-10,Alphonse Le Goff-Legendre
+CLI-01075,professionnel,Île-de-France,Particulier,2024-10-04,Corinne-Anouk Charles
+CLI-01076,particulier,Réunion,Particulier,2021-10-29,Guillaume Legrand et Fils
+CLI-01077,professionnel,Île-de-France,Particulier,2025-07-29,Voisin SARL
+CLI-01078,particulier,Guyane,Particulier,2018-01-08,Martin Meyer
+CLI-01079,particulier,Île-de-France,Particulier,2023-07-16,Pénélope Alves
+CLI-01080,particulier,Île-de-France,Particulier,2019-01-11,Margaux Chrétien
+CLI-01081,professionnel,Île-de-France,Particulier,2023-06-09,Océane-Anouk Foucher
+CLI-01082,professionnel,Île-de-France,Particulier,2022-10-27,Renard Georges S.A.
+CLI-01083,particulier,Île-de-France,Particulier,2020-07-10,Chrétien
+CLI-01084,particulier,Guadeloupe,Particulier,2020-04-26,Bernier
+CLI-01085,professionnel,Guadeloupe,Particulier,2025-11-12,Jeanne Léger
+CLI-01086,particulier,Guyane,Particulier,2021-03-26,Mathieu Navarro S.A.R.L.
+CLI-01087,particulier,Île-de-France,Particulier,2025-09-14,Maggie Schneider
+CLI-01088,professionnel,Île-de-France,Particulier,2025-02-01,Charrier Louis S.A.
+CLI-01089,particulier,Réunion,Particulier,2022-10-15,Aimée-Hélène Georges
+CLI-01090,particulier,Île-de-France,Particulier,2024-02-17,Chrétien Albert S.A.S.
+CLI-01091,particulier,Île-de-France,Particulier,2023-05-08,Valette SARL
+CLI-01092,particulier,Île-de-France,Particulier,2020-04-28,Laetitia Lopes
+CLI-01093,professionnel,Guyane,Particulier,2022-12-10,Renaud Leleu S.A.R.L.
+CLI-01094,professionnel,Martinique,Particulier,2021-11-25,Gauthier
+CLI-01095,particulier,Île-de-France,Particulier,2023-06-07,Georges Couturier
+CLI-01096,particulier,Réunion,Particulier,2019-04-05,Allain SARL
+CLI-01097,particulier,Guyane,Particulier,2022-09-21,Victor Lemaître
+CLI-01098,particulier,Réunion,Particulier,2019-05-04,Teixeira S.A.R.L.
+CLI-01099,particulier,Martinique,Particulier,2020-03-15,Céline-Lucy Auger
+CLI-01100,particulier,Guadeloupe,Particulier,2018-02-08,Schmitt S.A.R.L.
+CLI-01101,particulier,Île-de-France,Particulier,2020-05-16,Monique Aubry Le Charpentier
+CLI-01102,particulier,Martinique,Particulier,2018-10-03,Michaud
+CLI-01103,particulier,Île-de-France,Particulier,2023-03-31,Anouk Dufour-Turpin
+CLI-01104,particulier,Martinique,Particulier,2020-03-06,Claire-Christine Morin
+CLI-01105,particulier,Île-de-France,Particulier,2020-12-18,Moulin
+CLI-01106,particulier,Île-de-France,Particulier,2023-08-06,Édouard Léger
+CLI-01107,particulier,Île-de-France,Particulier,2022-08-23,Vaillant
+CLI-01108,particulier,Île-de-France,Particulier,2022-12-03,Bonnet
+CLI-01109,particulier,Martinique,Particulier,2022-02-12,Fontaine Ruiz SA
+CLI-01110,professionnel,Île-de-France,Particulier,2026-03-14,Corinne Julien-Lesage
+CLI-01111,particulier,Île-de-France,Particulier,2021-02-23,Émile Rodriguez-Raynaud
+CLI-01112,particulier,Île-de-France,Particulier,2019-02-16,Gilles Chauvin
+CLI-01113,particulier,Réunion,Particulier,2022-01-11,Brigitte Barre
+CLI-01114,professionnel,Réunion,Particulier,2019-01-29,Chauvin Bigot SARL
+CLI-01115,particulier,Île-de-France,Particulier,2018-07-19,Garcia SA
+CLI-01116,professionnel,Île-de-France,Particulier,2023-07-02,Geneviève Leroy
+CLI-01117,particulier,Martinique,Particulier,2021-07-19,Capucine Bertin
+CLI-01118,particulier,Réunion,Particulier,2022-06-10,Pierre Laporte
+CLI-01119,particulier,Île-de-France,Particulier,2019-04-28,Danielle-Laetitia David
+CLI-01120,professionnel,Île-de-France,Particulier,2021-10-21,Cécile Rousset Le Gaillard
+CLI-01121,particulier,Île-de-France,Particulier,2021-11-12,Margot Renault
+CLI-01122,particulier,Île-de-France,Particulier,2024-09-22,Rémy-Auguste Chrétien
+CLI-01123,professionnel,Île-de-France,Particulier,2021-12-25,Mahe SA
+CLI-01124,particulier,Île-de-France,Particulier,2025-08-19,Gay
+CLI-01125,particulier,Île-de-France,Particulier,2018-04-25,Martineau S.A.
+CLI-01126,particulier,Guyane,Particulier,2022-12-27,Laurent Leroux
+CLI-01127,particulier,Guyane,Particulier,2018-02-03,Briand
+CLI-01128,particulier,Île-de-France,Particulier,2025-08-24,Marc Le Jacquot
+CLI-01129,particulier,Île-de-France,Particulier,2018-08-10,Jules Gallet
+CLI-01130,professionnel,Guadeloupe,Particulier,2019-01-16,Philippine-Anne Labbé
+CLI-01131,particulier,Île-de-France,Particulier,2021-08-27,Fontaine
+CLI-01132,particulier,Guadeloupe,Particulier,2021-05-26,Nicolas Le Gall SA
+CLI-01133,particulier,Île-de-France,Particulier,2020-06-14,Hortense de la Wagner
+CLI-01134,particulier,Île-de-France,Particulier,2019-01-27,Fleury
+CLI-01135,particulier,Île-de-France,Particulier,2022-06-01,Zoé Charpentier
+CLI-01136,particulier,Île-de-France,Particulier,2024-06-23,Christelle Jacques de Durand
+CLI-01137,particulier,Île-de-France,Particulier,2021-07-06,Buisson et Fils
+CLI-01138,particulier,Île-de-France,Particulier,2023-07-08,Clémence Michel
+CLI-01139,particulier,Île-de-France,Particulier,2024-11-07,Anne Barbe
+CLI-01140,particulier,Île-de-France,Particulier,2020-11-26,Guichard Ruiz S.A.
+CLI-01141,particulier,Guyane,Particulier,2023-06-30,Nicolas Garnier
+CLI-01142,particulier,Martinique,Particulier,2018-01-05,Carre
+CLI-01143,particulier,Guadeloupe,Particulier,2025-08-08,Louise-Jacqueline Hubert
+CLI-01144,professionnel,Île-de-France,Particulier,2021-06-23,Denise Dufour
+CLI-01145,professionnel,Île-de-France,Particulier,2022-02-08,Gaillard
+CLI-01146,particulier,Guadeloupe,Particulier,2019-06-22,Étienne Voisin
+CLI-01147,particulier,Martinique,Particulier,2018-11-17,Édouard Traore
+CLI-01148,particulier,Île-de-France,Particulier,2019-11-08,Michel-Philippe Lamy
+CLI-01149,particulier,Île-de-France,Particulier,2024-12-10,Pénélope Petit-Fouquet
+CLI-01150,professionnel,Île-de-France,Particulier,2025-02-23,Thibaut-Marcel Weber
+CLI-01151,professionnel,Île-de-France,Particulier,2020-09-11,Noël Lefèvre
+CLI-01152,particulier,Île-de-France,Particulier,2018-05-31,Claude-Victoire Lelièvre
+CLI-01153,professionnel,Île-de-France,Particulier,2020-04-04,Agnès Gaillard-Jacques
+CLI-01154,particulier,Île-de-France,Particulier,2020-07-01,Danielle Gillet-Nicolas
+CLI-01155,particulier,Réunion,Particulier,2018-05-04,Roland Robin
+CLI-01156,particulier,Île-de-France,Particulier,2023-12-08,Brigitte Jacquet
+CLI-01157,particulier,Île-de-France,Particulier,2024-05-09,François Bouchet
+CLI-01158,particulier,Île-de-France,Particulier,2026-02-13,Cécile-Adélaïde Boucher
+CLI-01159,professionnel,Île-de-France,Particulier,2021-04-21,Gilles
+CLI-01160,professionnel,Réunion,Particulier,2020-10-10,Didier
+CLI-01161,particulier,Île-de-France,Particulier,2022-10-31,Emmanuel Richard du Pires
+CLI-01162,particulier,Réunion,Particulier,2024-12-12,Virginie Gimenez
+CLI-01163,professionnel,Martinique,Particulier,2018-07-02,Céline Mahe du Diallo
+CLI-01164,particulier,Guadeloupe,Particulier,2022-09-20,Jean Étienne
+CLI-01165,particulier,Île-de-France,Particulier,2023-06-26,Élise Aubry de la Gauthier
+CLI-01166,particulier,Île-de-France,Particulier,2022-12-04,Mathilde-Dorothée Duval
+CLI-01167,particulier,Île-de-France,Particulier,2024-04-19,Marc-Jacques Dubois
+CLI-01168,particulier,Guadeloupe,Particulier,2021-11-01,Hugues Grenier
+CLI-01169,particulier,Île-de-France,Particulier,2021-12-15,Besson S.A.
+CLI-01170,professionnel,Guadeloupe,Particulier,2021-06-02,Bouchet
+CLI-01171,particulier,Réunion,Particulier,2018-08-18,Antoine de la Leduc
+CLI-01172,particulier,Martinique,Particulier,2019-03-24,Marthe Meyer
+CLI-01173,professionnel,Île-de-France,Particulier,2021-01-08,Zacharie Schmitt
+CLI-01174,professionnel,Guyane,Particulier,2019-12-16,Cécile Potier Le Benard
+CLI-01175,particulier,Guadeloupe,Particulier,2023-08-05,Lévêque S.A.R.L.
+CLI-01176,professionnel,Île-de-France,Particulier,2023-07-08,Matthieu Vaillant
+CLI-01177,particulier,Île-de-France,Particulier,2025-06-28,Brigitte Thibault du Godard
+CLI-01178,particulier,Île-de-France,Particulier,2018-10-30,Benoit Barbe SA
+CLI-01179,professionnel,Île-de-France,Particulier,2018-06-19,Mace
+CLI-01180,particulier,Île-de-France,Particulier,2024-09-25,Odette Pereira
+CLI-01181,particulier,Île-de-France,Particulier,2025-05-07,Blondel
+CLI-01182,professionnel,Guadeloupe,Particulier,2025-01-09,Maillet
+CLI-01183,particulier,Île-de-France,Particulier,2021-08-11,Joubert
+CLI-01184,professionnel,Guyane,Particulier,2020-07-03,Jacques Goncalves
+CLI-01185,particulier,Guyane,Particulier,2026-02-17,Masse S.A.R.L.
+CLI-01186,particulier,Île-de-France,Particulier,2021-07-24,Susan Seguin
+CLI-01187,professionnel,Île-de-France,Particulier,2026-01-20,Luce du Hebert
+CLI-01188,professionnel,Guyane,Particulier,2024-09-06,Paul Lebon
+CLI-01189,particulier,Réunion,Particulier,2024-08-03,Le Goff
+CLI-01190,particulier,Guyane,Particulier,2024-04-30,Collin
+CLI-01191,particulier,Martinique,Particulier,2023-06-22,Guillaume-Isaac Bruneau
+CLI-01192,professionnel,Guyane,Particulier,2023-02-15,Blanchard
+CLI-01193,particulier,Réunion,Particulier,2024-02-21,Guillaume Prévost
+CLI-01194,particulier,Guadeloupe,Particulier,2022-10-18,Picard
+CLI-01195,particulier,Île-de-France,Particulier,2023-08-07,Marc Le Lebreton
+CLI-01196,particulier,Île-de-France,Particulier,2020-05-01,Léon Peltier
+CLI-01197,professionnel,Réunion,Particulier,2022-03-02,Isaac Godard
+CLI-01198,professionnel,Réunion,Particulier,2025-03-20,Marchal SA
+CLI-01199,professionnel,Île-de-France,Particulier,2023-04-29,Pénélope Rocher
+CLI-01200,particulier,Île-de-France,Particulier,2024-09-28,Margot Nicolas
+CLI-01201,professionnel,Guadeloupe,Particulier,2023-05-29,Daniel Da Silva
+CLI-01202,professionnel,Île-de-France,Particulier,2024-05-24,Lebreton
+CLI-01203,particulier,Île-de-France,Particulier,2022-04-23,Benjamin Renault
+CLI-01204,particulier,Île-de-France,Particulier,2023-12-15,Renault
+CLI-01205,particulier,Île-de-France,Particulier,2024-05-10,Martine du Girard
+CLI-01206,particulier,Guyane,Particulier,2022-09-16,Isaac-Bernard Boutin
+CLI-01207,particulier,Martinique,Particulier,2023-09-05,Aimée Huet-Voisin
+CLI-01208,professionnel,Île-de-France,Particulier,2019-02-14,Lucas Rey
+CLI-01209,professionnel,Île-de-France,Particulier,2024-04-10,Yves Pruvost
+CLI-01210,particulier,Guadeloupe,Particulier,2025-07-02,Édouard Martel
+CLI-01211,particulier,Île-de-France,Particulier,2019-11-20,Thibaut Gomes
+CLI-01212,professionnel,Île-de-France,Particulier,2019-12-31,Masse S.A.R.L.
+CLI-01213,particulier,Guyane,Particulier,2020-03-07,Leclerc
+CLI-01214,particulier,Île-de-France,Particulier,2024-07-30,Dorothée Menard
+CLI-01215,professionnel,Île-de-France,Particulier,2022-05-17,Bernard Renaud-Roux
+CLI-01216,particulier,Réunion,Particulier,2024-04-08,Suzanne Pichon
+CLI-01217,particulier,Réunion,Particulier,2018-12-02,Alain-Michel Ledoux
+CLI-01218,particulier,Île-de-France,Particulier,2021-04-22,Maurice Breton de la Guérin
+CLI-01219,professionnel,Île-de-France,Particulier,2022-01-26,Robert
+CLI-01220,professionnel,Île-de-France,Particulier,2020-11-18,Rey
+CLI-01221,particulier,Guyane,Particulier,2025-02-14,Timothée Bouchet-Guilbert
+CLI-01222,professionnel,Île-de-France,Particulier,2019-07-06,Hélène Marion de Da Silva
+CLI-01223,particulier,Martinique,Particulier,2022-11-01,Louise Pages de Thibault
+CLI-01224,particulier,Île-de-France,Particulier,2024-12-02,Noël S.A.
+CLI-01225,professionnel,Réunion,Particulier,2024-10-20,Alphonse Sanchez de Becker
+CLI-01226,particulier,Île-de-France,Particulier,2023-12-30,Chantal Goncalves
+CLI-01227,particulier,Guyane,Particulier,2021-01-26,Gomes
+CLI-01228,particulier,Île-de-France,Particulier,2018-01-19,Charlotte Charrier
+CLI-01229,professionnel,Île-de-France,Particulier,2022-06-28,Océane Jourdan
+CLI-01230,particulier,Île-de-France,Particulier,2019-05-22,Rodriguez
+CLI-01231,particulier,Île-de-France,Particulier,2018-04-29,Lucy Dufour
+CLI-01232,particulier,Guadeloupe,Particulier,2023-08-23,Frédérique Reynaud
+CLI-01233,professionnel,Guadeloupe,Particulier,2023-02-03,Le Goff
+CLI-01234,professionnel,Île-de-France,Particulier,2019-09-16,Weiss
+CLI-01235,particulier,Île-de-France,Particulier,2023-09-28,Joséphine-Alex Aubry
+CLI-01236,particulier,Guyane,Particulier,2022-12-17,Gilles et Fils
+CLI-01237,professionnel,Île-de-France,Particulier,2025-01-05,Leconte
+CLI-01238,particulier,Guyane,Particulier,2021-04-27,Claire Charles
+CLI-01239,particulier,Île-de-France,Particulier,2018-06-08,Odette Georges
+CLI-01240,professionnel,Île-de-France,Particulier,2018-08-21,Odette Normand
+CLI-01241,professionnel,Île-de-France,Particulier,2024-08-17,Barbier S.A.
+CLI-01242,particulier,Île-de-France,Particulier,2019-04-27,Chevallier S.A.S.
+CLI-01243,particulier,Île-de-France,Particulier,2020-12-13,Théophile Jacob
+CLI-01244,particulier,Île-de-France,Particulier,2023-01-02,Thierry
+CLI-01245,particulier,Martinique,Particulier,2018-12-17,Hugues de Verdier
+CLI-01246,particulier,Guadeloupe,Particulier,2019-02-09,Pons S.A.R.L.
+CLI-01247,professionnel,Île-de-France,Particulier,2025-04-11,Claire du Blondel
+CLI-01248,particulier,Île-de-France,Particulier,2023-04-21,Guyot
+CLI-01249,professionnel,Martinique,Particulier,2022-01-07,Peltier Lecoq SA
+CLI-01250,particulier,Île-de-France,Particulier,2018-03-13,Guy Nguyen-Potier
+CLI-01251,particulier,Île-de-France,Particulier,2024-12-04,Cousin
+CLI-01252,particulier,Île-de-France,Particulier,2025-09-06,Augustin Adam
+CLI-01253,particulier,Île-de-France,Particulier,2020-11-05,Marc de la Gautier
+CLI-01254,professionnel,Île-de-France,Particulier,2023-01-07,Guillon SARL
+CLI-01255,professionnel,Île-de-France,Particulier,2020-09-06,Claude-Emmanuelle Pons
+CLI-01256,professionnel,Réunion,Particulier,2023-08-11,Aubry
+CLI-01257,professionnel,Martinique,Particulier,2021-11-14,Jules Julien
+CLI-01258,particulier,Île-de-France,Particulier,2019-05-13,Léon Bruneau
+CLI-01259,particulier,Martinique,Particulier,2025-01-11,Garnier SA
+CLI-01260,particulier,Île-de-France,Particulier,2023-09-24,Bertrand Fernandes
+CLI-01261,professionnel,Guyane,Particulier,2020-11-30,Margot Bouvet-Vallet
+CLI-01262,particulier,Île-de-France,Particulier,2019-02-20,Monique Le Breton
+CLI-01263,particulier,Île-de-France,Particulier,2025-01-29,René Neveu
+CLI-01264,particulier,Île-de-France,Particulier,2023-08-14,Philippe Riou
+CLI-01265,particulier,Île-de-France,Particulier,2026-01-08,André Lambert
+CLI-01266,professionnel,Réunion,Particulier,2019-02-10,Sanchez
+CLI-01267,particulier,Île-de-France,Particulier,2024-04-14,Allard
+CLI-01268,particulier,Île-de-France,Particulier,2023-01-24,Marcelle Nguyen
+CLI-01269,particulier,Île-de-France,Particulier,2022-01-01,Édouard Raymond
+CLI-01270,particulier,Martinique,Particulier,2020-04-15,Weber et Fils
+CLI-01271,particulier,Île-de-France,Particulier,2021-12-30,Zacharie Dos Santos-Lenoir
+CLI-01272,professionnel,Île-de-France,Particulier,2020-10-29,Marion
+CLI-01273,particulier,Martinique,Particulier,2025-12-05,Torres
+CLI-01274,particulier,Guadeloupe,Particulier,2022-06-17,Jérôme Wagner
+CLI-01275,professionnel,Île-de-France,Particulier,2025-08-03,Gaudin
+CLI-01276,professionnel,Île-de-France,Particulier,2025-08-12,Tristan Martins
+CLI-01277,professionnel,Réunion,Particulier,2018-02-08,Claude Morel
+CLI-01278,professionnel,Île-de-France,Particulier,2020-11-12,Diallo et Fils
+CLI-01279,particulier,Île-de-France,Particulier,2024-01-01,Maréchal Lebreton et Fils
+CLI-01280,professionnel,Île-de-France,Particulier,2023-03-08,Louis Fernandes-Guillon
+CLI-01281,particulier,Île-de-France,Particulier,2025-12-25,Élodie Pottier
+CLI-01282,professionnel,Île-de-France,Particulier,2019-11-18,Clémence Langlois
+CLI-01283,particulier,Île-de-France,Particulier,2025-08-03,Lacombe
+CLI-01284,particulier,Île-de-France,Particulier,2022-08-17,Paulette-Luce Lecomte
+CLI-01285,particulier,Île-de-France,Particulier,2022-06-02,Raynaud
+CLI-01286,particulier,Île-de-France,Particulier,2020-11-01,Antoinette Merle
+CLI-01287,particulier,Guadeloupe,Particulier,2018-10-25,Sophie Rey
+CLI-01288,particulier,Île-de-France,Particulier,2023-06-18,Yves-Isaac Thibault
+CLI-01289,particulier,Île-de-France,Particulier,2018-02-10,Adrienne-Zoé Breton
+CLI-01290,particulier,Île-de-France,Particulier,2020-02-10,Merle et Fils
+CLI-01291,particulier,Île-de-France,Particulier,2018-07-06,Jean de Marin
+CLI-01292,particulier,Île-de-France,Particulier,2023-02-19,Alexandria Pinto
+CLI-01293,particulier,Île-de-France,Particulier,2018-05-12,Michèle Riou
+CLI-01294,particulier,Guadeloupe,Particulier,2023-11-12,Lemonnier et Fils
+CLI-01295,particulier,Île-de-France,Particulier,2021-12-15,Julie Allain
+CLI-01296,particulier,Île-de-France,Particulier,2021-02-16,Da Costa
+CLI-01297,particulier,Île-de-France,Particulier,2019-06-05,Martins Delannoy SARL
+CLI-01298,professionnel,Guadeloupe,Particulier,2019-07-04,Diane Petit de la Dufour
+CLI-01299,professionnel,Île-de-France,Particulier,2018-10-23,Édouard Samson
+CLI-01300,professionnel,Île-de-France,Particulier,2024-07-10,Marcelle Diallo-Potier
+CLI-01301,particulier,Martinique,Particulier,2019-11-20,Eugène de Mendès
+CLI-01302,particulier,Martinique,Particulier,2018-01-11,André Daniel-Bonnet
+CLI-01303,professionnel,Réunion,Particulier,2018-10-27,Marin
+CLI-01304,particulier,Réunion,Particulier,2021-07-31,Tanguy
+CLI-01305,professionnel,Île-de-France,Particulier,2022-07-12,Patrick Chauvet Le Bouvier
+CLI-01306,particulier,Martinique,Particulier,2025-06-08,Aimé Berthelot
+CLI-01307,particulier,Martinique,Particulier,2025-09-16,Moreau Chartier S.A.
+CLI-01308,particulier,Île-de-France,Particulier,2019-08-14,Charlotte Lacombe
+CLI-01309,professionnel,Guadeloupe,Particulier,2022-11-12,Vincent Lebreton
+CLI-01310,particulier,Île-de-France,Particulier,2024-02-06,Margaud de la Muller
+CLI-01311,professionnel,Île-de-France,Particulier,2023-02-18,Juliette Gauthier
+CLI-01312,particulier,Île-de-France,Particulier,2022-01-07,Gérard Dupuis du Dos Santos
+CLI-01313,professionnel,Réunion,Particulier,2020-12-29,Nathalie Garcia
+CLI-01314,professionnel,Guyane,Particulier,2021-12-21,Aimée Pierre
+CLI-01315,particulier,Île-de-France,Particulier,2023-12-29,Duhamel
+CLI-01316,particulier,Île-de-France,Particulier,2018-08-30,Costa
+CLI-01317,particulier,Île-de-France,Particulier,2025-10-24,Roger Gérard-Lecomte
+CLI-01318,particulier,Île-de-France,Particulier,2023-03-31,Aimé-Émile Thomas
+CLI-01319,particulier,Guadeloupe,Particulier,2018-01-22,Nicolas Blin
+CLI-01320,professionnel,Île-de-France,Particulier,2024-04-30,Stéphanie Merle de la Colin
+CLI-01321,particulier,Guyane,Particulier,2022-01-31,Gilles Martins
+CLI-01322,particulier,Île-de-France,Particulier,2018-02-15,Daniel Gallet
+CLI-01323,professionnel,Réunion,Particulier,2020-01-30,Legrand SARL
+CLI-01324,particulier,Île-de-France,Particulier,2025-07-12,Rémy Dupont
+CLI-01325,particulier,Île-de-France,Particulier,2019-08-17,Patrick-François Martins
+CLI-01326,professionnel,Réunion,Particulier,2024-11-22,Giraud Benoit S.A.R.L.
+CLI-01327,particulier,Île-de-France,Particulier,2025-01-16,Gabriel Huet
+CLI-01328,professionnel,Île-de-France,Particulier,2024-11-19,Thibault
+CLI-01329,particulier,Martinique,Particulier,2021-03-09,Daniel Durand
+CLI-01330,particulier,Île-de-France,Particulier,2024-05-27,Guy Vallée
+CLI-01331,particulier,Île-de-France,Particulier,2020-12-16,Agathe Barbier-Meyer
+CLI-01332,particulier,Martinique,Particulier,2020-07-04,Pierre Grenier
+CLI-01333,particulier,Île-de-France,Particulier,2020-08-08,Antoinette Pinto
+CLI-01334,professionnel,Île-de-France,Particulier,2023-11-28,Anouk Didier
+CLI-01335,professionnel,Île-de-France,Particulier,2022-06-04,Édouard Didier
+CLI-01336,professionnel,Réunion,Particulier,2020-04-07,Coulon S.A.
+CLI-01337,particulier,Réunion,Particulier,2025-11-17,Thibault Descamps
+CLI-01338,professionnel,Île-de-France,Particulier,2021-12-21,Claire Bruneau
+CLI-01339,professionnel,Île-de-France,Particulier,2025-11-11,Bourgeois SARL
+CLI-01340,particulier,Île-de-France,Particulier,2025-04-18,Émilie-Isabelle Grenier
+CLI-01341,particulier,Île-de-France,Particulier,2021-06-09,Valentin Meyer S.A.
+CLI-01342,professionnel,Île-de-France,Particulier,2023-02-23,Éléonore Dufour
+CLI-01343,particulier,Martinique,Particulier,2018-03-05,Paulette Jean
+CLI-01344,particulier,Île-de-France,Particulier,2023-11-06,Augustin Mallet
+CLI-01345,professionnel,Île-de-France,Particulier,2023-02-03,Pereira Hervé et Fils
+CLI-01346,particulier,Guadeloupe,Particulier,2022-11-23,Julien Hoareau de Chevalier
+CLI-01347,professionnel,Île-de-France,Particulier,2024-11-03,Léon-Robert Pottier
+CLI-01348,professionnel,Île-de-France,Particulier,2019-04-22,Garcia Dupont et Fils
+CLI-01349,professionnel,Guadeloupe,Particulier,2018-08-07,Alexandria Rodrigues
+CLI-01350,professionnel,Réunion,Particulier,2021-11-12,Antoine Picard-Brunel
+CLI-01351,particulier,Île-de-France,Particulier,2018-02-24,Richard et Fils
+CLI-01352,particulier,Guadeloupe,Particulier,2025-06-12,Eugène Delattre
+CLI-01353,professionnel,Île-de-France,Particulier,2025-05-12,Maillet
+CLI-01354,particulier,Île-de-France,Particulier,2019-07-17,Lucas-Louis Evrard
+CLI-01355,professionnel,Martinique,Particulier,2025-08-28,Jacques Muller de Blanc
+CLI-01356,particulier,Île-de-France,Particulier,2024-03-19,Stéphane Cohen
+CLI-01357,particulier,Réunion,Particulier,2020-10-29,Perez et Fils
+CLI-01358,particulier,Île-de-France,Particulier,2022-09-11,Martin Turpin
+CLI-01359,particulier,Martinique,Particulier,2022-04-27,Jeanne Chauvet
+CLI-01360,professionnel,Île-de-France,Particulier,2021-10-02,Royer Alves SARL
+CLI-01361,particulier,Martinique,Particulier,2019-04-20,Lucas Evrard
+CLI-01362,professionnel,Guadeloupe,Particulier,2021-06-05,Noël Allard-Morin
+CLI-01363,particulier,Martinique,Particulier,2018-05-25,Éric Toussaint
+CLI-01364,particulier,Île-de-France,Particulier,2024-10-25,Océane Perrin-Couturier
+CLI-01365,professionnel,Île-de-France,Particulier,2018-08-16,Suzanne Le Alexandre
+CLI-01366,professionnel,Île-de-France,Particulier,2022-10-21,Lemaire
+CLI-01367,professionnel,Martinique,Particulier,2021-07-06,Audrey Foucher
+CLI-01368,particulier,Guyane,Particulier,2024-04-23,Nathalie Guyon
+CLI-01369,particulier,Île-de-France,Particulier,2025-08-15,Anastasie Ramos
+CLI-01370,particulier,Île-de-France,Particulier,2024-07-28,Nathalie Berger
+CLI-01371,particulier,Île-de-France,Particulier,2024-01-14,Richard Letellier
+CLI-01372,particulier,Île-de-France,Particulier,2020-02-25,Xavier Thomas-Rocher
+CLI-01373,particulier,Guadeloupe,Particulier,2019-10-01,Thierry Lejeune
+CLI-01374,professionnel,Île-de-France,Particulier,2025-04-15,François Bègue-Chrétien
+CLI-01375,particulier,Guadeloupe,Particulier,2024-01-20,Augustin Legrand
+CLI-01376,particulier,Île-de-France,Particulier,2024-09-07,Camille Renault-Gilles
+CLI-01377,particulier,Réunion,Particulier,2022-01-09,Chantal Le Roux
+CLI-01378,professionnel,Île-de-France,Particulier,2020-06-09,Marie de Vasseur
+CLI-01379,particulier,Guadeloupe,Particulier,2020-10-21,Alfred Rey
+CLI-01380,professionnel,Île-de-France,Particulier,2025-07-07,Susan Ollivier
+CLI-01381,particulier,Réunion,Particulier,2024-05-22,Michelle Le Durand
+CLI-01382,professionnel,Martinique,Particulier,2020-03-05,Paulette Millet
+CLI-01383,particulier,Île-de-France,Particulier,2024-01-24,Jérôme Andre
+CLI-01384,particulier,Réunion,Particulier,2024-01-30,Benjamin Nicolas
+CLI-01385,professionnel,Île-de-France,Particulier,2023-08-19,Thierry-Vincent Bigot
+CLI-01386,particulier,Martinique,Particulier,2020-12-25,Émile Traore
+CLI-01387,particulier,Île-de-France,Particulier,2024-12-17,Sébastien Jean de Gérard
+CLI-01388,particulier,Île-de-France,Particulier,2021-04-30,Alain Leroy
+CLI-01389,particulier,Île-de-France,Particulier,2022-03-31,Marine Marchand
+CLI-01390,particulier,Île-de-France,Particulier,2024-04-12,Munoz
+CLI-01391,particulier,Île-de-France,Particulier,2024-06-10,René Robert
+CLI-01392,particulier,Île-de-France,Particulier,2024-04-13,Tristan Bonnin
+CLI-01393,professionnel,Île-de-France,Particulier,2024-04-23,Dupont
+CLI-01394,particulier,Île-de-France,Particulier,2022-08-02,Hubert
+CLI-01395,professionnel,Guadeloupe,Particulier,2022-10-19,Gomes S.A.S.
+CLI-01396,professionnel,Guyane,Particulier,2025-06-22,Bruneau
+CLI-01397,professionnel,Réunion,Particulier,2026-03-10,Anouk-Geneviève Lemonnier
+CLI-01398,particulier,Île-de-France,Particulier,2022-02-22,Claude Bouvet
+CLI-01399,particulier,Île-de-France,Particulier,2023-01-22,Michel Da Costa
+CLI-01400,particulier,Guyane,Particulier,2025-01-31,Alfred Bègue
+CLI-01401,particulier,Île-de-France,Particulier,2018-08-10,Gosselin
+CLI-01402,professionnel,Réunion,Particulier,2023-03-26,Adèle Lamy
+CLI-01403,particulier,Île-de-France,Particulier,2021-05-10,Hortense-Margot Marie
+CLI-01404,particulier,Guadeloupe,Particulier,2022-07-02,Victoire Gaillard
+CLI-01405,particulier,Guadeloupe,Particulier,2021-04-10,Maryse Dupré-Collin
+CLI-01406,particulier,Île-de-France,Particulier,2026-02-19,Éric Le Samson
+CLI-01407,particulier,Île-de-France,Particulier,2025-03-11,Susanne Costa
+CLI-01408,particulier,Île-de-France,Particulier,2026-03-05,Alphonse Le Mathieu
+CLI-01409,professionnel,Île-de-France,Particulier,2023-03-03,Martel
+CLI-01410,particulier,Île-de-France,Particulier,2019-07-20,Maillard
+CLI-01411,particulier,Île-de-France,Particulier,2021-10-02,Alix Ferrand
+CLI-01412,particulier,Île-de-France,Particulier,2026-02-08,Émile Descamps
+CLI-01413,particulier,Guadeloupe,Particulier,2023-04-24,Thibault-Patrick Paul
+CLI-01414,professionnel,Île-de-France,Particulier,2024-11-19,Capucine Imbert de Rolland
+CLI-01415,particulier,Réunion,Particulier,2020-01-20,Dupuy
+CLI-01416,professionnel,Île-de-France,Particulier,2018-05-18,Ferrand Dos Santos S.A.R.L.
+CLI-01417,particulier,Île-de-France,Particulier,2022-02-25,Roland Blanc-Blanc
+CLI-01418,particulier,Île-de-France,Particulier,2024-07-13,Delmas
+CLI-01419,particulier,Martinique,Particulier,2025-08-12,Raymond Pereira
+CLI-01420,particulier,Île-de-France,Particulier,2019-01-26,Victor Leroux du Daniel
+CLI-01421,particulier,Île-de-France,Particulier,2019-01-24,Marion Aubry S.A.S.
+CLI-01422,professionnel,Île-de-France,Particulier,2023-05-30,Merle SA
+CLI-01423,particulier,Île-de-France,Particulier,2024-05-27,Lévêque Fernandes S.A.
+CLI-01424,particulier,Île-de-France,Particulier,2022-07-01,Éric-Alphonse Renard
+CLI-01425,particulier,Martinique,Particulier,2024-11-06,Auguste Baron
+CLI-01426,professionnel,Guadeloupe,Particulier,2024-02-16,Marguerite Pascal
+CLI-01427,professionnel,Guadeloupe,Particulier,2020-04-02,Dominique Lemonnier
+CLI-01428,particulier,Île-de-France,Particulier,2021-01-31,Ramos Maury S.A.
+CLI-01429,particulier,Île-de-France,Particulier,2025-08-15,Alix de Ferreira
+CLI-01430,professionnel,Guadeloupe,Particulier,2019-02-18,Charpentier
+CLI-01431,particulier,Île-de-France,Particulier,2025-07-23,Odette Goncalves
+CLI-01432,particulier,Guyane,Particulier,2023-01-30,Paul Leduc
+CLI-01433,particulier,Île-de-France,Particulier,2018-05-03,Leduc
+CLI-01434,particulier,Île-de-France,Particulier,2021-10-13,Aurore Millet
+CLI-01435,particulier,Île-de-France,Particulier,2020-12-14,Marie SA
+CLI-01436,particulier,Île-de-France,Particulier,2024-10-27,Frédérique Coste
+CLI-01437,particulier,Île-de-France,Particulier,2018-08-10,Hugues Martin
+CLI-01438,professionnel,Île-de-France,Particulier,2020-11-22,Valentine Perrot
+CLI-01439,particulier,Réunion,Particulier,2020-09-11,Suzanne-Aurélie Raymond
+CLI-01440,particulier,Guadeloupe,Particulier,2025-05-30,Philippe de la Brunel
+CLI-01441,particulier,Île-de-France,Particulier,2020-12-14,Pierre Le Camus
+CLI-01442,particulier,Île-de-France,Particulier,2023-03-12,Thibault-Alfred Lebrun
+CLI-01443,particulier,Île-de-France,Particulier,2018-02-17,Capucine Leconte
+CLI-01444,professionnel,Île-de-France,Particulier,2023-01-13,Marthe Masson
+CLI-01445,particulier,Île-de-France,Particulier,2018-03-01,Claire Clerc-Collet
+CLI-01446,particulier,Martinique,Particulier,2024-05-03,Marine Weber
+CLI-01447,particulier,Île-de-France,Particulier,2021-04-13,Eugène Lopez
+CLI-01448,professionnel,Île-de-France,Particulier,2024-11-24,Rey
+CLI-01449,particulier,Île-de-France,Particulier,2024-04-18,Colette Vasseur
+CLI-01450,particulier,Île-de-France,Particulier,2018-04-17,Paul Rousseau
+CLI-01451,particulier,Île-de-France,Particulier,2018-06-14,Caron Aubry S.A.R.L.
+CLI-01452,particulier,Île-de-France,Particulier,2025-09-25,Colin
+CLI-01453,professionnel,Île-de-France,Particulier,2022-01-26,Arthur Huet
+CLI-01454,professionnel,Guyane,Particulier,2023-02-03,Poirier
+CLI-01455,professionnel,Guadeloupe,Particulier,2018-12-13,Adrien Denis
+CLI-01456,particulier,Île-de-France,Particulier,2025-06-17,Maurice Gautier-Pottier
+CLI-01457,particulier,Guyane,Particulier,2025-09-21,Lorraine Legros
+CLI-01458,professionnel,Île-de-France,Particulier,2025-01-18,Legrand Torres S.A.S.
+CLI-01459,particulier,Martinique,Particulier,2021-12-13,Lesage
+CLI-01460,particulier,Île-de-France,Particulier,2018-10-25,Clerc
+CLI-01461,professionnel,Île-de-France,Particulier,2024-03-01,Alexandrie Le Martel
+CLI-01462,professionnel,Île-de-France,Particulier,2024-05-12,Pruvost
+CLI-01463,professionnel,Île-de-France,Particulier,2023-02-19,Anne Descamps
+CLI-01464,particulier,Île-de-France,Particulier,2020-05-04,Raymond Bousquet Le Imbert
+CLI-01465,professionnel,Réunion,Particulier,2021-10-31,Claire Thomas
+CLI-01466,particulier,Île-de-France,Particulier,2024-07-31,Lebrun Paul S.A.R.L.
+CLI-01467,particulier,Île-de-France,Particulier,2026-02-07,Turpin Bernier S.A.R.L.
+CLI-01468,particulier,Île-de-France,Particulier,2019-07-08,Catherine Seguin-Lemaire
+CLI-01469,professionnel,Île-de-France,Particulier,2021-03-26,Schneider SA
+CLI-01470,particulier,Guyane,Particulier,2020-07-13,Blin et Fils
+CLI-01471,particulier,Guyane,Particulier,2021-11-27,Boyer Deschamps SA
+CLI-01472,particulier,Île-de-France,Particulier,2019-01-14,Amélie Dupuy
+CLI-01473,professionnel,Île-de-France,Particulier,2025-08-02,Roland Charrier
+CLI-01474,professionnel,Guadeloupe,Particulier,2024-01-20,Robert de la Didier
+CLI-01475,particulier,Île-de-France,Particulier,2025-01-09,Marin SARL
+CLI-01476,professionnel,Île-de-France,Particulier,2022-06-19,Odette Jacquet
+CLI-01477,particulier,Guyane,Particulier,2018-11-30,Sébastien-André Henry
+CLI-01478,particulier,Île-de-France,Particulier,2021-01-30,Stéphane Raymond de Rey
+CLI-01479,particulier,Île-de-France,Particulier,2022-09-12,Adèle Benoit
+CLI-01480,professionnel,Île-de-France,Particulier,2022-07-30,Matthieu Leblanc
+CLI-01481,particulier,Île-de-France,Particulier,2019-12-19,Benjamin Labbé
+CLI-01482,particulier,Île-de-France,Particulier,2021-07-15,François Navarro
+CLI-01483,particulier,Île-de-France,Particulier,2024-10-18,Perrier Gaillard SARL
+CLI-01484,particulier,Île-de-France,Particulier,2023-10-04,Boulanger Delannoy S.A.
+CLI-01485,particulier,Guadeloupe,Particulier,2020-03-29,Marine Vincent
+CLI-01486,professionnel,Guadeloupe,Particulier,2019-05-09,Charles Girard
+CLI-01487,particulier,Île-de-France,Particulier,2020-04-09,Nicole de la Hamon
+CLI-01488,particulier,Guadeloupe,Particulier,2023-11-12,Marianne Faivre
+CLI-01489,particulier,Île-de-France,Particulier,2018-11-07,Margaux Didier
+CLI-01490,particulier,Guadeloupe,Particulier,2019-01-16,Colin
+CLI-01491,professionnel,Île-de-France,Particulier,2021-08-09,Poirier
+CLI-01492,professionnel,Île-de-France,Particulier,2021-08-19,Hugues-Roland Diallo
+CLI-01493,particulier,Guyane,Particulier,2022-11-16,Danielle Torres
+CLI-01494,professionnel,Île-de-France,Particulier,2021-08-15,Leleu S.A.R.L.
+CLI-01495,particulier,Île-de-France,Particulier,2025-05-02,Dominique Le Gall
+CLI-01496,particulier,Île-de-France,Particulier,2025-10-31,Nath Le Lecoq
+CLI-01497,particulier,Martinique,Particulier,2021-04-26,Adrien Boyer-Maury
+CLI-01498,professionnel,Île-de-France,Particulier,2018-07-01,Adèle Adam
+CLI-01499,particulier,Île-de-France,Particulier,2022-12-07,Valentin
+CLI-01500,professionnel,Réunion,Particulier,2025-03-04,Léon de Thierry

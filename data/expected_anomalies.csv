@@ -1,0 +1,7 @@
+controle,anomalies_injectees,description
+contrats_doublons,20,Copies supplémentaires de contrats existants.
+contrats_dates_incoherentes,20,Date de fin prévue antérieure à la date de début.
+contrats_montants_negatifs,20,Montant financé négatif.
+echeances_orphelines,283,Échéances rattachées à un identifiant de contrat absent.
+echeances_montants_negatifs,143,Montant dû négatif.
+paiements_superieurs_au_du,209,Paiement supérieur au montant dû de l’échéance.
