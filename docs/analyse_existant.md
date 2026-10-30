@@ -4,7 +4,7 @@
 
 Ce projet est un cas d’école de migration pour une société de financement locatif fictive. Les classeurs `legacy_reports/` sont des **reproductions synthétiques au format Excel** de reportings auparavant décrits comme Excel et états de type Business Objects. SAP BusinessObjects n’étant pas disponible en open source dans ce dépôt, aucun univers, document ou capture Business Objects authentique n’est prétendu. Les valeurs proviennent exclusivement du jeu synthétique décrit dans `data/manifest.json`.
 
-La date d’arrêté utilisée pour les tests est le 31 mars 2026. Les « limites constatées » ci-dessous sont les risques simulés par le cas d’école, pas un audit de BRED Cofilease ni d’un client réel.
+La date d’arrêté utilisée pour les tests est le 31 mars 2026. Les « limites constatées » ci-dessous sont les risques simulés par le cas d’école, pas l’audit d’une entreprise réelle.
 
 ## 1. État de production mensuelle — export de type BO
 

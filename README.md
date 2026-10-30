@@ -2,7 +2,7 @@
 
 **Créatrice : Fatma Hammami** · **Projet personnel — cas d’école synthétique**
 
-Ce projet illustre l’analyse et la migration de trois reportings de gestion d’une société fictive de financement locatif (automobile, matériel d’équipement et bateaux) vers un modèle analytique destiné à Power BI. Toutes les données sont **synthétiques**, générées par Python; elles ne décrivent ni un client réel ni des travaux réalisés pour BRED Cofilease. Les « états Business Objects » sont des **reproductions au format Excel/CSV** : BusinessObjects n’est pas disponible en open source et aucune capture ou extraction BO authentique n’est revendiquée.
+Ce projet illustre l’analyse et la migration de trois reportings de gestion d’une société fictive de financement locatif (automobile, matériel d’équipement et bateaux) vers un modèle analytique destiné à Power BI. Toutes les données sont **synthétiques**, générées par Python; elles ne décrivent ni un client réel ni une entreprise existante. Les « états Business Objects » sont des **reproductions au format Excel/CSV** : BusinessObjects n’est pas disponible en open source et aucune capture ou extraction BO authentique n’est revendiquée.
 
 ![Maquette — Synthèse direction](docs/screenshots/01_synthese_direction.png)
 
